@@ -3131,7 +3131,6 @@ what is a slinky: Spring toy that "walks" down stairs, invented in 1943.
 what is your name: I am Hades, your All Knowing assistant.
 who are you: I am Hades, an All Knowing desktop assistant for Windows.
 what are you: I am Hades, a desktop assistant chatbox that answers questions from a built-in knowledge base.
-who made you: I was built by my developer as a desktop assistant for Windows 10 and 11.
 what is your slogan: All Knowing.
 what can you do: I can answer questions on geography, science, history, technology, Windows tips, math, language and much more.
 help: Ask me anything, for example "capital of france", "what is dna", "how to take a screenshot on windows" or "who is nikola tesla".
