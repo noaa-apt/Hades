@@ -1,0 +1,663 @@
+# Hades Knowledge Base
+# Format: key: value
+# Lines starting with # are ignored
+# You can add as many lines as you want
+
+# Capitals
+capital of france: Paris.
+capital of usa: Washington, D.C.
+capital of uk: London.
+capital of germany: Berlin.
+capital of japan: Tokyo.
+capital of china: Beijing.
+capital of australia: Canberra.
+capital of canada: Ottawa.
+capital of brazil: Brasilia.
+capital of india: New Delhi.
+capital of russia: Moscow.
+capital of italy: Rome.
+capital of spain: Madrid.
+capital of mexico: Mexico City.
+capital of south korea: Seoul.
+capital of north korea: Pyongyang.
+capital of argentina: Buenos Aires.
+capital of egypt: Cairo.
+capital of nigeria: Abuja.
+capital of south africa: Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial).
+capital of turkey: Ankara.
+capital of poland: Warsaw.
+capital of ukraine: Kyiv.
+capital of saudi arabia: Riyadh.
+capital of iran: Tehran.
+capital of pakistan: Islamabad.
+capital of indonesia: Jakarta.
+capital of vietnam: Hanoi.
+capital of thailand: Bangkok.
+capital of portugal: Lisbon.
+capital of netherlands: Amsterdam.
+capital of belgium: Brussels.
+capital of switzerland: Bern.
+capital of sweden: Stockholm.
+capital of norway: Oslo.
+capital of denmark: Copenhagen.
+capital of finland: Helsinki.
+capital of greece: Athens.
+capital of austria: Vienna.
+capital of ireland: Dublin.
+capital of scotland: Edinburgh.
+capital of wales: Cardiff.
+capital of new zealand: Wellington.
+capital of singapore: Singapore.
+capital of malaysia: Kuala Lumpur.
+capital of philippines: Manila.
+capital of bangladesh: Dhaka.
+capital of iraq: Baghdad.
+capital of afghanistan: Kabul.
+capital of israel: Jerusalem (claimed), Tel Aviv (diplomatic).
+capital of palestine: East Jerusalem (claimed), Ramallah (administrative).
+capital of cuba: Havana.
+capital of colombia: Bogotá.
+capital of chile: Santiago.
+capital of peru: Lima.
+capital of venezuela: Caracas.
+capital of morocco: Rabat.
+capital of algeria: Algiers.
+capital of kenya: Nairobi.
+capital of ethiopia: Addis Ababa.
+capital of ghana: Accra.
+capital of tanzania: Dodoma (official), Dar es Salaam (commercial).
+capital of ukraine: Kyiv.
+capital of belarus: Minsk.
+capital of czech republic: Prague.
+capital of hungary: Budapest.
+capital of romania: Bucharest.
+capital of bulgaria: Sofia.
+capital of croatia: Zagreb.
+capital of serbia: Belgrade.
+capital of slovakia: Bratislava.
+capital of slovenia: Ljubljana.
+capital of iceland: Reykjavik.
+capital of luxembourg: Luxembourg City.
+capital of monaco: Monaco.
+capital of liechtenstein: Vaduz.
+capital of andorra: Andorra la Vella.
+capital of malta: Valletta.
+capital of cyprus: Nicosia.
+capital of georgia: Tbilisi.
+capital of armenia: Yerevan.
+capital of azerbaijan: Baku.
+capital of kazakhstan: Astana.
+capital of uzbekistan: Tashkent.
+capital of mongolia: Ulaanbaatar.
+capital of myanmar: Naypyidaw.
+capital of cambodia: Phnom Penh.
+capital of laos: Vientiane.
+capital of nepal: Kathmandu.
+capital of sri lanka: Sri Jayawardenepura Kotte (legislative), Colombo (commercial).
+capital of maldives: Malé.
+capital of fiji: Suva.
+capital of papua new guinea: Port Moresby.
+capital of jamaica: Kingston.
+capital of haiti: Port-au-Prince.
+capital of dominican republic: Santo Domingo.
+capital of panama: Panama City.
+capital of costa rica: San José.
+capital of guatemala: Guatemala City.
+capital of honduras: Tegucigalpa.
+capital of el salvador: San Salvador.
+capital of nicaragua: Managua.
+capital of ecuador: Quito.
+capital of bolivia: Sucre (constitutional), La Paz (administrative).
+capital of paraguay: Asunción.
+capital of uruguay: Montevideo.
+capital of qatar: Doha.
+capital of uae: Abu Dhabi.
+capital of kuwait: Kuwait City.
+capital of bahrain: Manama.
+capital of oman: Muscat.
+capital of yemen: Sana'a.
+capital of syria: Damascus.
+capital of lebanon: Beirut.
+capital of jordan: Amman.
+capital of libya: Tripoli.
+capital of tunisia: Tunis.
+capital of sudan: Khartoum.
+capital of south sudan: Juba.
+capital of somalia: Mogadishu.
+capital of uganda: Kampala.
+capital of rwanda: Kigali.
+capital of congo: Brazzaville (Republic of the Congo), Kinshasa (Democratic Republic of the Congo).
+capital of angola: Luanda.
+capital of mozambique: Maputo.
+capital of zimbabwe: Harare.
+capital of zambia: Lusaka.
+capital of botswana: Gaborone.
+capital of namibia: Windhoek.
+capital of madagascar: Antananarivo.
+
+# Geography
+biggest country: Russia, by land area.
+largest country: Russia, by land area.
+smallest country: Vatican City.
+most populated country: India (overtook China around 2023).
+largest ocean: Pacific Ocean.
+deepest ocean: Pacific, Mariana Trench at about 36,000 feet.
+longest river: The Nile is traditionally listed as longest. The Amazon is the largest by volume.
+tallest mountain: Mount Everest at 29,032 feet above sea level.
+highest mountain: Mount Everest at 29,032 feet above sea level.
+largest continent: Asia.
+smallest continent: Australia.
+how many continents: 7.
+largest desert: Antarctic Desert (by area). Sahara is the largest hot desert.
+second largest country: Canada.
+third largest country: China (or USA depending on measurement of China).
+largest island: Greenland.
+longest mountain range: Andes.
+largest lake: Caspian Sea (by surface area).
+deepest lake: Lake Baikal.
+highest waterfall: Angel Falls (Venezuela).
+longest coastline: Canada.
+driest place on earth: Atacama Desert or Dry Valleys of Antarctica.
+hottest place on earth: Death Valley (California) or Dallol (Ethiopia) depending on metric.
+coldest place on earth: Vostok Station, Antarctica.
+largest rainforest: Amazon Rainforest.
+what is the equator: Imaginary line around Earth at 0 degrees latitude, dividing it into Northern and Southern Hemispheres.
+what is the prime meridian: Imaginary line at 0 degrees longitude, running through Greenwich, England.
+how many oceans: 5 (Pacific, Atlantic, Indian, Southern, Arctic).
+largest sea: Philippine Sea or Coral Sea depending on definition.
+tallest volcano: Mauna Kea (from base to summit) or Ojos del Salado (highest elevation).
+what is a peninsula: Land surrounded by water on three sides.
+what is an archipelago: A group of islands.
+what is a fjord: A long, narrow inlet with steep sides created by glacial erosion.
+largest city by population: Tokyo metropolitan area.
+most densely populated country: Monaco or Singapore (depending on ranking).
+least densely populated country: Mongolia or Greenland (territory).
+where is the grand canyon: Arizona, USA.
+where is the great barrier reef: Off the coast of Queensland, Australia.
+where is mount kilimanjaro: Tanzania.
+where is the dead sea: Between Israel and Jordan. Lowest point on Earth's surface.
+where is niagara falls: Border of USA (New York) and Canada (Ontario).
+where is the eiffel tower: Paris, France.
+where is the statue of liberty: New York Harbor, USA.
+where is big ben: London, England (the clock tower is officially Elizabeth Tower).
+where is the great wall of china: Northern China.
+where is machu picchu: Peru.
+where is the taj mahal: Agra, India.
+where is the colosseum: Rome, Italy.
+where is stonehenge: Wiltshire, England.
+where is the pyramids of giza: Near Cairo, Egypt.
+
+# Science & Space
+speed of light: About 186,282 miles per second (299,792 km/s) in a vacuum.
+how far is the sun: About 93 million miles (150 million km) from Earth on average.
+how far is the moon: About 238,855 miles (384,400 km) from Earth on average.
+how old is the universe: About 13.8 billion years old.
+how old is the earth: About 4.5 billion years old.
+what is dna: DNA (deoxyribonucleic acid) is the molecule that carries genetic instructions for all living organisms.
+what is a black hole: A region of space where gravity is so strong that nothing, not even light, can escape past the event horizon.
+what causes thunder: The rapid heating and expansion of air around a lightning bolt creates a sonic shockwave.
+why is the sky blue: Rayleigh scattering. Sunlight hits air molecules and blue light scatters more than other colors.
+why is the ocean salty: Rainwater erodes salts from rocks, rivers carry them to the ocean, and the water evaporates leaving the salt behind over billions of years.
+what is gravity: A fundamental force that attracts objects with mass toward each other.
+what is quantum physics: The branch of physics dealing with matter and energy at the smallest scales, where particles behave in ways that defy everyday intuition.
+what causes earthquakes: Movement of tectonic plates grinding or slipping against each other, releasing energy as seismic waves.
+what causes volcanoes: Molten rock (magma) from the mantle pushing up through cracks in the crust, usually at plate boundaries.
+boiling point of water: 212 degrees Fahrenheit (100 Celsius) at sea level.
+freezing point of water: 32 degrees Fahrenheit (0 Celsius) at sea level.
+how many bones in the human body: 206 in an adult.
+how many planets: 8 in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+largest planet: Jupiter.
+smallest planet: Mercury.
+what is a lightyear: The distance light travels in one year, about 5.88 trillion miles (9.46 trillion km).
+what is the milky way: The galaxy we live in. A spiral galaxy containing hundreds of billions of stars including our Sun.
+what is pi: Pi (3.14159...) is the ratio of a circle's circumference to its diameter. It never repeats.
+pythagorean theorem: In a right triangle: a squared + b squared = c squared, where c is the hypotenuse.
+what is photosynthesis: Process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.
+what is evolution: The process by which different kinds of living organisms developed and diversified from earlier forms during the history of the Earth (natural selection is a key mechanism).
+what is the big bang: The leading scientific theory for the origin of the universe, starting from an extremely hot and dense state about 13.8 billion years ago.
+what is a nebula: A giant cloud of dust and gas in space, often a region where stars are born.
+what is a supernova: The explosion of a star at the end of its life cycle, briefly outshining an entire galaxy.
+what is the speed of sound: About 767 mph (1,235 km/h) in dry air at sea level at 20°C.
+what is absolute zero: The lowest possible temperature, 0 Kelvin (-273.15°C or -459.67°F), where molecular motion stops.
+what is the periodic table: Arrangement of chemical elements ordered by atomic number, showing periodic trends.
+how many elements: 118 known elements.
+what is an atom: The basic unit of a chemical element, consisting of a nucleus (protons + neutrons) surrounded by electrons.
+what is a molecule: A group of atoms bonded together.
+what is the greenhouse effect: Trapping of heat in Earth's atmosphere by greenhouse gases like CO2, water vapor, and methane.
+what causes seasons: Earth's axial tilt of about 23.5 degrees as it orbits the Sun.
+what is a comet: Icy body that releases gas and dust when near the Sun, forming a coma and sometimes a tail.
+what is an asteroid: Rocky body orbiting the Sun, mostly in the asteroid belt between Mars and Jupiter.
+what is a meteor: A meteoroid that enters Earth's atmosphere and burns up (shooting star). If it hits the ground it's a meteorite.
+distance to nearest star: Proxima Centauri is about 4.24 light-years away.
+what is the andromeda galaxy: Nearest major galaxy to the Milky Way, about 2.5 million light-years away. On a collision course with us in ~4.5 billion years.
+how many stars in the milky way: Estimated 100–400 billion.
+what is dark matter: Invisible form of matter that makes up most of the mass in the universe, detected through gravitational effects.
+what is dark energy: Mysterious force causing the accelerated expansion of the universe.
+what is e=mc2: Einstein's mass-energy equivalence formula. Energy equals mass times the speed of light squared.
+what is the doppler effect: Change in frequency of a wave for an observer moving relative to its source (e.g., redshift in astronomy).
+what is a virus: Infectious agent that can only replicate inside living cells of organisms.
+what is bacteria: Single-celled microorganisms, some beneficial, some pathogenic.
+what is the human genome: The complete set of DNA in a human, containing about 3 billion base pairs.
+how many chromosomes in humans: 46 (23 pairs).
+what is blood type: Classification based on antigens on red blood cells: A, B, AB, O, plus Rh positive/negative.
+largest organ in human body: Skin.
+strongest muscle: Masseter (jaw) or tongue depending on definition.
+how many senses: Traditionally 5 (sight, hearing, taste, smell, touch). More modernly up to 20+.
+what is the pH scale: Measures acidity/alkalinity from 0 to 14. 7 is neutral.
+what is photosynthesis equation: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2.
+what is cellular respiration: Process cells use to break down glucose for energy: C6H12O6 + 6O2 → 6CO2 + 6H2O + ATP.
+speed of earth rotation: About 1,000 mph (1,600 km/h) at the equator.
+speed of earth orbit: About 67,000 mph (107,000 km/h) around the Sun.
+what is a blackbody: Idealized object that absorbs all radiation and emits based only on temperature.
+what is entropy: Measure of disorder or randomness in a system (second law of thermodynamics).
+what is the uncertainty principle: Heisenberg's principle: you cannot precisely know both position and momentum of a particle at the same time.
+what is schrodinger's cat: Thought experiment illustrating quantum superposition and measurement problem.
+what is the standard model: Theory describing three of the four fundamental forces and classifying elementary particles.
+fundamental forces: Gravity, electromagnetism, strong nuclear force, weak nuclear force.
+what is a quark: Elementary particle and fundamental constituent of matter (up, down, charm, strange, top, bottom).
+what is a lepton: Elementary particle (electron, muon, tau, and their neutrinos).
+what is the higgs boson: Particle associated with the Higgs field that gives mass to other particles. Discovered 2012.
+
+# History
+when did ww2 end: 1945. V-E Day (Germany) May 8, V-J Day (Japan) September 2.
+when did ww2 start: September 1, 1939, when Germany invaded Poland.
+when did ww1 end: November 11, 1918.
+when did ww1 start: July 28, 1914.
+who invented the internet: ARPANET was developed by DARPA in the late 60s. Tim Berners-Lee invented the World Wide Web in 1989.
+who invented electricity: Nobody invented it, it's natural. Edison and Tesla made it usable. Franklin studied it.
+who invented the telephone: Alexander Graham Bell, patented in 1876.
+who invented the light bulb: Thomas Edison in 1879.
+who invented the computer: Many people. Babbage designed early mechanical versions. Turing laid the theory. ENIAC (1945) was one of the first electronic general-purpose computers.
+who invented the airplane: Orville and Wilbur Wright, first powered flight in 1903.
+who is albert einstein: German-born physicist (1879-1955). Developed the theory of relativity. Nobel Prize in Physics 1921.
+who is nikola tesla: Serbian-American inventor (1856-1943). Pioneered AC electricity, the Tesla coil, and contributed to radio.
+who is isaac newton: English physicist and mathematician (1643-1727). Laws of motion and gravity, invented calculus.
+who is galileo: Italian astronomer and physicist (1564-1642). Supported heliocentrism, improved the telescope.
+who is charles darwin: English naturalist (1809-1882). Developed theory of evolution by natural selection.
+who is marie curie: Polish-French physicist and chemist (1867-1934). Discovered radioactivity, first woman to win Nobel Prize, only person to win in two sciences.
+who is leonardo da vinci: Italian polymath (1452-1519). Artist, inventor, scientist. Painted Mona Lisa and The Last Supper.
+who is shakespeare: English playwright and poet (1564-1616). Wrote Hamlet, Romeo and Juliet, Macbeth, etc.
+who is julius caesar: Roman general and statesman (100–44 BC). Key figure in the fall of the Roman Republic.
+who is cleopatra: Last active pharaoh of Ancient Egypt (69–30 BC). Of the Ptolemaic dynasty.
+who is genghis khan: Founder of the Mongol Empire (c. 1162–1227). Created the largest contiguous empire in history.
+who is alexander the great: King of Macedon (356–323 BC). Created one of the largest empires of the ancient world.
+who is napoleon: French military leader and emperor (1769–1821). Rose during the French Revolution.
+who is abraham lincoln: 16th President of the United States (1809–1865). Led during Civil War, abolished slavery.
+who is george washington: 1st President of the United States (1732–1799). Commander of Continental Army.
+who is martin luther king jr: American civil rights leader (1929–1968). Famous for "I Have a Dream" speech.
+who is mahatma gandhi: Leader of Indian independence movement (1869–1948). Advocated nonviolent resistance.
+who is nelson mandela: South African anti-apartheid revolutionary and president (1918–2013).
+when did the roman empire fall: Western Roman Empire traditionally 476 AD. Eastern (Byzantine) fell 1453.
+when did the industrial revolution start: Late 18th century in Britain.
+when was the american revolution: 1775–1783.
+when was the french revolution: 1789–1799.
+when was the civil war: American Civil War 1861–1865.
+when did the cold war end: 1991 with the dissolution of the Soviet Union.
+when was the berlin wall built: 1961.
+when did the berlin wall fall: November 9, 1989.
+when was the first moon landing: July 20, 1969 (Apollo 11, Neil Armstrong and Buzz Aldrin).
+who was the first man on the moon: Neil Armstrong.
+who was the first woman in space: Valentina Tereshkova (1963).
+who was the first man in space: Yuri Gagarin (1961).
+when was the printing press invented: Around 1440 by Johannes Gutenberg.
+when was gunpowder invented: 9th century China.
+when was the wheel invented: Around 3500 BC in Mesopotamia.
+when was writing invented: Around 3200 BC in Sumer (cuneiform).
+ancient wonders of the world: Great Pyramid of Giza, Hanging Gardens of Babylon, Temple of Artemis, Statue of Zeus, Mausoleum at Halicarnassus, Colossus of Rhodes, Lighthouse of Alexandria.
+seven wonders of the modern world: Great Wall of China, Petra, Christ the Redeemer, Machu Picchu, Chichen Itza, Colosseum, Taj Mahal.
+
+# Technology
+what is bitcoin: A decentralized digital currency created in 2009 by Satoshi Nakamoto. Uses blockchain, no central bank.
+what is ai: Artificial Intelligence. Computer systems designed to perform tasks that normally require human intelligence.
+what is machine learning: A subset of AI where systems learn from data to improve over time without being explicitly programmed for every task.
+what is blockchain: A distributed digital ledger recording transactions across many computers, making records very hard to alter.
+what is the cloud: Servers and services accessed over the internet rather than on your local hardware.
+what is an api: Application Programming Interface. Rules letting different software programs communicate with each other.
+what is open source: Software whose source code is publicly available for anyone to view, use, modify, and distribute.
+what is linux: An open-source OS kernel created by Linus Torvalds in 1991. Android and most web servers run on it.
+what is windows: Microsoft's commercial OS, the most widely used desktop OS in the world.
+what is python: A high-level programming language known for clean syntax. Popular in AI, data science, and automation.
+what is javascript: A programming language that runs in web browsers and on servers. The backbone of interactive web content.
+what is html: HyperText Markup Language. Standard language for creating web pages.
+what is css: Cascading Style Sheets. Used to style and layout web pages.
+what is sql: Structured Query Language. Used to manage and query relational databases.
+what is a cpu: Central Processing Unit. The "brain" of a computer that executes instructions.
+what is a gpu: Graphics Processing Unit. Specialized for parallel processing, used in graphics and AI.
+what is ram: Random Access Memory. Temporary fast storage for data the computer is actively using.
+what is an ssd: Solid State Drive. Storage device with no moving parts, faster than traditional hard drives.
+what is the internet: Global network of interconnected computers using standardized protocols (TCP/IP).
+what is wifi: Wireless networking technology based on IEEE 802.11 standards.
+what is bluetooth: Short-range wireless technology for connecting devices.
+what is 5g: Fifth generation of cellular network technology, offering higher speeds and lower latency.
+what is virtual reality: Computer-generated simulation of a three-dimensional environment experienced via headset.
+what is augmented reality: Technology that overlays digital information onto the real world.
+what is cryptocurrency: Digital or virtual currency secured by cryptography, typically decentralized.
+what is nft: Non-Fungible Token. Unique digital asset verified on a blockchain.
+what is the metaverse: Shared virtual spaces, often accessed via VR/AR, where users can interact.
+what is quantum computing: Computing using quantum-mechanical phenomena (superposition, entanglement) for potentially massive speedups on certain problems.
+what is deep learning: Subset of machine learning using neural networks with many layers.
+what is a neural network: Computing system inspired by biological neural networks, used in AI.
+what is chatgpt: AI chatbot developed by OpenAI based on large language models.
+what is github: Platform for version control and collaborative software development using Git.
+what is docker: Platform for developing, shipping, and running applications in containers.
+what is kubernetes: Open-source system for automating deployment, scaling, and management of containerized applications.
+what is tcp/ip: Fundamental suite of protocols that powers the internet.
+what is http: HyperText Transfer Protocol. Foundation of data communication on the World Wide Web.
+what is https: Secure version of HTTP using encryption (TLS/SSL).
+what is a firewall: Network security system that monitors and controls incoming and outgoing traffic.
+what is malware: Malicious software designed to harm or exploit devices/networks.
+what is phishing: Fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity.
+what is two factor authentication: Security process requiring two different forms of identification.
+what is encryption: Process of converting information into a code to prevent unauthorized access.
+what is a vpn: Virtual Private Network. Creates a secure, encrypted connection over a less secure network.
+what is the dark web: Part of the internet that requires special software (like Tor) to access and is not indexed by search engines.
+what is tor: Free software for enabling anonymous communication.
+what is a server: Computer or system that provides resources, data, or services to other computers (clients).
+what is a client: Device or program that requests services from a server.
+what is bandwidth: Maximum rate of data transfer across a network path.
+what is latency: Delay before a transfer of data begins following an instruction.
+what is a pixel: Smallest unit of a digital image or display.
+what is resolution: Number of pixels in each dimension that can be displayed.
+what is openai: AI research company that developed GPT models and ChatGPT.
+what is google: American multinational technology company specializing in search, advertising, cloud, and AI.
+what is apple: American technology company known for iPhone, Mac, iPad, and services.
+what is microsoft: American technology company known for Windows, Office, Azure, and Xbox.
+what is amazon: American multinational technology and e-commerce company; also major cloud provider (AWS).
+what is meta: Parent company of Facebook, Instagram, WhatsApp (formerly Facebook Inc.).
+what is tesla: American electric vehicle and clean energy company founded by Elon Musk and others.
+what is spacex: American aerospace manufacturer and space transport company founded by Elon Musk.
+what is x: Social media platform formerly known as Twitter, owned by Elon Musk / xAI related entities.
+what is elon musk: Entrepreneur associated with Tesla, SpaceX, Neuralink, The Boring Company, xAI, and owner of X.
+
+# Math
+what is algebra: Branch of mathematics dealing with symbols and the rules for manipulating them.
+what is calculus: Mathematical study of continuous change (differentiation and integration).
+what is geometry: Branch of mathematics concerned with properties of space, shapes, and sizes.
+what is trigonometry: Study of relationships between angles and sides of triangles.
+what is statistics: Science of collecting, analyzing, and interpreting data.
+what is probability: Measure of the likelihood that an event will occur (between 0 and 1).
+what is fibonacci sequence: Series where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13...
+what is the golden ratio: Approximately 1.618, often appearing in nature and art (phi).
+what is infinity: Concept of something without bound or end.
+what is a prime number: Natural number greater than 1 with no positive divisors other than 1 and itself.
+what is the quadratic formula: For ax² + bx + c = 0, x = [-b ± √(b² - 4ac)] / (2a).
+what is e: Euler's number, approximately 2.71828, base of natural logarithms.
+what is the order of operations: PEMDAS / BODMAS (Parentheses/Brackets, Exponents/Orders, Multiplication-Division, Addition-Subtraction).
+what is a fraction: Number representing part of a whole (numerator / denominator).
+what is a percentage: Number or ratio expressed as a fraction of 100.
+what is the area of a circle: πr².
+what is the circumference of a circle: 2πr.
+what is the volume of a sphere: (4/3)πr³.
+what is the area of a triangle: (1/2) × base × height.
+what is the pythagorean theorem: a² + b² = c² for right triangles.
+
+# Biology & Nature
+what is a mammal: Warm-blooded vertebrate animal with hair/fur and that produces milk.
+what is a reptile: Cold-blooded vertebrate with scales (snakes, lizards, turtles, crocodiles).
+what is an amphibian: Cold-blooded vertebrate that lives both in water and on land (frogs, salamanders).
+what is a bird: Warm-blooded vertebrate with feathers, wings, and lays eggs.
+what is a fish: Aquatic vertebrate with gills and fins.
+what is the largest animal: Blue whale.
+what is the tallest animal: Giraffe.
+what is the fastest land animal: Cheetah.
+what is the smartest animal: Debatable; often chimpanzees, dolphins, or elephants are cited. Humans are also animals.
+how many hearts does an octopus have: 3.
+how many legs does a spider have: 8.
+how many legs does an insect have: 6.
+what is the largest living structure: Great Barrier Reef.
+what is the oldest living tree: Bristlecone pine (Methuselah) over 4,800 years old.
+what is the tallest tree: Hyperion (coast redwood) about 380 feet.
+what is chlorophyll: Green pigment in plants that absorbs light for photosynthesis.
+what is a carnivore: Animal that feeds on other animals.
+what is a herbivore: Animal that feeds on plants.
+what is an omnivore: Animal that eats both plants and animals.
+what is extinction: The end of an organism or group of organisms (species).
+what is biodiversity: Variety of life in the world or a particular habitat.
+what is an ecosystem: Community of living organisms interacting with their physical environment.
+what is the food chain: Sequence of organisms through which energy and nutrients pass.
+what is a keystone species: Species that has a disproportionately large effect on its environment relative to its abundance.
+
+# General Facts
+how many days in a year: 365, or 366 in a leap year.
+how many weeks in a year: 52 weeks and 1 day (2 in a leap year).
+how many hours in a day: 24.
+how many seconds in a day: 86,400.
+how many minutes in a day: 1,440.
+how many states in the usa: 50.
+how many countries in the world: 193 recognized by the United Nations.
+population of the world: About 8.2 billion as of 2026.
+most spoken language: Mandarin Chinese has the most native speakers. English is the most widely spoken overall.
+how many time zones: 24 primary, but more with offsets.
+what is a leap year: Year divisible by 4, except century years not divisible by 400.
+how many colors in a rainbow: 7 (red, orange, yellow, green, blue, indigo, violet).
+what is the fastest bird: Peregrine falcon (diving).
+what is the slowest animal: Three-toed sloth (on land).
+what is the loudest animal: Blue whale or sperm whale (underwater).
+what is the most poisonous animal: Box jellyfish or inland taipan depending on metric.
+how many teeth does an adult human have: 32.
+how long can a human survive without food: Typically 1–2 months depending on body fat and conditions.
+how long can a human survive without water: Typically 3–5 days.
+what is the average human body temperature: 98.6°F (37°C).
+what is the average human heart rate: 60–100 beats per minute at rest.
+what is the speed of a sneeze: Up to 100 mph.
+what is the only letter not in the periodic table: J.
+what is the most common element in the universe: Hydrogen.
+what is the most common element in Earth's crust: Oxygen.
+what is the hardest natural substance: Diamond.
+what is the softest mineral: Talc.
+what is the chemical symbol for gold: Au.
+what is the chemical symbol for silver: Ag.
+what is the chemical symbol for iron: Fe.
+what is the chemical symbol for sodium: Na.
+what is the chemical symbol for potassium: K.
+what is the chemical formula for water: H2O.
+what is the chemical formula for salt: NaCl.
+what is the chemical formula for carbon dioxide: CO2.
+what is the chemical formula for methane: CH4.
+how many moons does earth have: 1.
+how many moons does mars have: 2 (Phobos and Deimos).
+how many moons does jupiter have: 95 confirmed (as of recent counts).
+how many moons does saturn have: Over 140.
+what is the largest moon: Ganymede (Jupiter).
+what is the hottest planet: Venus.
+what is the coldest planet: Uranus or Neptune (Neptune has colder average).
+what is the red planet: Mars.
+what is the blue planet: Earth (or Neptune/Uranus).
+why is mars red: Iron oxide (rust) on its surface.
+what is a solar eclipse: Moon passes between Earth and Sun, blocking the Sun.
+what is a lunar eclipse: Earth passes between Sun and Moon, casting shadow on the Moon.
+what is the aurora borealis: Northern Lights. Caused by charged particles from the Sun interacting with Earth's atmosphere.
+what is the aurora australis: Southern Lights.
+how long does it take light from the sun to reach earth: About 8 minutes and 20 seconds.
+how long does it take the moon to orbit earth: About 27.3 days.
+how long does it take earth to orbit the sun: 365.25 days.
+what is the name of our galaxy: Milky Way.
+what is the closest galaxy: Canis Major Dwarf or Sagittarius Dwarf (debated), then Large Magellanic Cloud; Andromeda is nearest large one.
+what is the observable universe diameter: About 93 billion light-years.
+what is the age of the solar system: About 4.6 billion years.
+who discovered america: Indigenous peoples first. Columbus reached the Americas in 1492 (not the first European either—Vikings earlier).
+who painted the mona lisa: Leonardo da Vinci.
+who painted the starry night: Vincent van Gogh.
+who wrote romeo and juliet: William Shakespeare.
+who wrote harry potter: J.K. Rowling.
+who composed the ninth symphony: Ludwig van Beethoven.
+what is the largest religion: Christianity.
+what is the second largest religion: Islam.
+what is the oldest religion still practiced: Hinduism (among major ones).
+how many books in the bible: 66 in Protestant, 73 in Catholic.
+what is the koran: Holy book of Islam.
+what is the torah: Central reference of Judaism (first five books of the Hebrew Bible).
+what is buddhism: Religion/philosophy founded by Siddhartha Gautama (the Buddha).
+what is the capital of the european union: Brussels (de facto).
+what is nato: North Atlantic Treaty Organization. Military alliance.
+what is the un: United Nations. International organization founded in 1945.
+what is the who: World Health Organization.
+what is the imf: International Monetary Fund.
+what is gdp: Gross Domestic Product. Total value of goods and services produced.
+what is inflation: Rate at which the general level of prices for goods and services rises.
+what is a recession: Significant decline in economic activity lasting more than a few months.
+what is the stock market: Marketplace where shares of public companies are bought and sold.
+what is the dow jones: Stock market index tracking 30 large US companies.
+what is the s&p 500: Stock market index of 500 large US companies.
+what is bitcoin's creator: Satoshi Nakamoto (pseudonym).
+when was facebook founded: 2004 by Mark Zuckerberg and others.
+when was google founded: 1998 by Larry Page and Sergey Brin.
+when was apple founded: 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+when was microsoft founded: 1975 by Bill Gates and Paul Allen.
+who is the current pope: (Note: knowledge may lag; check latest as of query time).
+how many players on a soccer team: 11.
+how many players on a basketball team: 5 on court.
+how many players on a baseball team: 9.
+how many players on an american football team: 11 on field.
+what is the olympics: International multi-sport event held every 4 years (Summer and Winter).
+where were the first modern olympics: Athens, 1896.
+what is the world cup: International association football (soccer) competition.
+what is the super bowl: Championship game of the National Football League (NFL).
+what is the world series: Championship series of Major League Baseball.
+what is wimbledon: Oldest and most prestigious tennis tournament.
+what is the tour de france: Annual multiple-stage bicycle race primarily in France.
+what is chess: Two-player strategy board game played on an 8×8 checkered board.
+how many squares on a chessboard: 64.
+what is the strongest chess piece: Queen.
+what is checkmate: Position in chess where the king is in check and there is no legal move to escape.
+what is go: Ancient Chinese board game of strategy, considered more complex than chess.
+what is pokemon: Media franchise centered on fictional creatures that trainers catch and train.
+what is mario: Iconic video game character created by Nintendo (Shigeru Miyamoto).
+what is minecraft: Sandbox video game focused on building and survival, created by Markus Persson.
+what is the tallest building: Burj Khalifa (Dubai) at 828 meters / 2,717 feet.
+what is the longest bridge: Danyang–Kunshan Grand Bridge (China) or others depending on type.
+what is the deepest mine: Mponeng Gold Mine (South Africa) or TauTona.
+what is the largest library: Library of Congress (by collection size).
+what is the oldest university: University of Bologna (1088) or Al-Qarawiyyin (859) depending on definition.
+what is the most expensive material: By weight, antimatter or californium; by practical terms, various rare items.
+what is the rarest blood type: Rh-null (golden blood) or AB negative depending on population.
+what is the most common blood type: O positive.
+how much of the human body is water: About 60%.
+how many taste buds: Roughly 2,000–8,000.
+how many hairs on a human head: Average 100,000–150,000.
+what is the largest muscle: Gluteus maximus.
+what is the smallest bone: Stapes (in the ear).
+what is the longest bone: Femur (thigh bone).
+what is the only organ that can regenerate: Liver (to a significant degree).
+how many kidneys does a human have: 2.
+how many lungs does a human have: 2.
+how many chambers in the human heart: 4.
+what is the average lifespan: Globally around 73 years (varies widely by country).
+what is the oldest verified person: Jeanne Calment (122 years, 164 days).
+what is the speed of a blink: About 100–150 milliseconds.
+how many times does a human blink per day: About 15,000–20,000.
+what is the loudest sound: Krakatoa eruption 1883 estimated at 180+ dB; theoretical limit around 194 dB in air.
+what is the quietest place on earth: Anechoic chambers (e.g., Orfield Laboratories).
+what is the densest element: Osmium (or Hassium theoretically).
+what is the lightest element: Hydrogen.
+what is the most reactive metal: Francium or Cesium.
+what is the noble gases: Helium, Neon, Argon, Krypton, Xenon, Radon, Oganesson.
+what is the greenhouse gases: Water vapor, carbon dioxide, methane, nitrous oxide, ozone, CFCs.
+what is climate change: Long-term shifts in temperatures and weather patterns, primarily driven by human activities since the mid-20th century.
+what is global warming: Long-term heating of Earth's climate system observed since the pre-industrial period.
+what is renewable energy: Energy from sources that are naturally replenishing (solar, wind, hydro, geothermal, tidal).
+what is fossil fuel: Coal, oil, and natural gas formed from ancient organic matter.
+what is nuclear energy: Energy released from nuclear reactions (fission or fusion).
+what is fusion: Process of combining atomic nuclei to release energy (what powers the Sun).
+what is fission: Splitting of atomic nuclei to release energy (used in nuclear power plants and weapons).
+
+# Animals
+largest land animal: African elephant.
+largest predator: Polar bear (on land) or orca / saltwater crocodile depending on metric.
+fastest fish: Sailfish.
+longest living animal: Glass sponge or Greenland shark (centuries); some corals even longer.
+animal with most legs: Millipede (up to 750+).
+animal that never sleeps: Debatable; some claim bullfrogs or certain fish, but most animals sleep in some form.
+animal with three hearts: Octopus and squid.
+animal that can regenerate limbs: Starfish, axolotl, lizards (tails).
+loudest bird: White bellbird or bittern.
+bird that can't fly: Ostrich, emu, penguin, kiwi, etc.
+only mammal that can fly: Bat.
+only mammal that lays eggs: Monotremes (platypus and echidnas).
+smartest dog breed: Border Collie (often ranked).
+fastest dog: Greyhound.
+largest dog breed: English Mastiff or Great Dane (by weight/height).
+smallest dog breed: Chihuahua.
+what do pandas eat: Almost exclusively bamboo.
+what do koalas eat: Eucalyptus leaves.
+national animal of usa: Bald eagle (symbolic).
+national animal of australia: Red kangaroo or emu.
+national animal of india: Bengal tiger.
+national animal of china: Giant panda.
+
+# Food & Cooking
+what is sushi: Japanese dish of vinegared rice combined with seafood, vegetables, or egg.
+what is pizza: Dish originating from Italy consisting of a flatbread base with tomato sauce, cheese, and toppings.
+what is pasta: Italian staple food made from durum wheat flour and water/eggs.
+what is chocolate: Food product made from roasted and ground cacao seeds.
+where does coffee come from: Originally Ethiopia; now grown in tropical regions worldwide (beans from Coffea plant).
+where does tea come from: Originally China; leaves of Camellia sinensis.
+what is the scoville scale: Measures the pungency (spiciness) of chili peppers.
+hottest chili pepper: Currently Pepper X or Carolina Reaper (subject to change).
+what is umami: One of the five basic tastes (savory), associated with glutamate.
+basic tastes: Sweet, sour, salty, bitter, umami.
+what is gluten: Protein found in wheat, barley, and rye.
+what is vegan: Diet and lifestyle that excludes all animal products.
+what is vegetarian: Diet that excludes meat but may include dairy and eggs.
+what is keto: High-fat, low-carbohydrate diet.
+what is paleo: Diet based on foods presumed to be available to Paleolithic humans.
+
+# Language & Literature
+most spoken languages: English, Mandarin, Hindi, Spanish, French, Arabic, Bengali, Portuguese, Russian, Urdu (order varies by native vs total speakers).
+how many languages in the world: Approximately 7,000.
+oldest written language: Sumerian or Egyptian hieroglyphs.
+what is esperanto: Constructed international auxiliary language.
+who wrote 1984: George Orwell.
+who wrote to kill a mockingbird: Harper Lee.
+who wrote the great gatsby: F. Scott Fitzgerald.
+who wrote pride and prejudice: Jane Austen.
+who wrote the odyssey: Homer.
+who wrote the divine comedy: Dante Alighieri.
+what is a haiku: Japanese poetic form of 3 lines with 5-7-5 syllables.
+what is a sonnet: 14-line poem with a specific rhyme scheme (Shakespearean or Petrarchan).
+
+# Sports
+how long is a marathon: 26.2 miles (42.195 km).
+how many points for a touchdown: 6 (American football).
+how many points for a field goal: 3 (American football).
+how many holes in a standard golf course: 18.
+what is a hat trick: Three goals by one player in a single game (soccer, hockey, etc.).
+what is a grand slam in tennis: Winning all four major tournaments in a calendar year.
+what are the four tennis majors: Australian Open, French Open, Wimbledon, US Open.
+what is the stanley cup: Championship trophy of the National Hockey League (NHL).
+what is the fifa world cup trophy: Awarded to the winner of the FIFA World Cup.
+how many players in a rugby team: 15 (union) or 13 (league).
+what is the offside rule: In soccer, a player is offside if closer to the opponent's goal line than both the ball and the second-last opponent when the ball is played.
+
+# Space (extra)
+names of the planets in order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.
+dwarf planets: Pluto, Eris, Haumea, Makemake, Ceres (and others).
+what is pluto: Dwarf planet in the Kuiper Belt, formerly the 9th planet.
+what is the kuiper belt: Region of the solar system beyond Neptune containing many small icy bodies.
+what is the oort cloud: Theoretical spherical cloud of icy bodies surrounding the solar system at great distance.
+what is a pulsar: Highly magnetized rotating neutron star that emits beams of electromagnetic radiation.
+what is a quasar: Extremely luminous active galactic nucleus powered by a supermassive black hole.
+what is the event horizon: Boundary around a black hole beyond which nothing can escape.
+what is hawking radiation: Theoretical radiation predicted to be emitted by black holes.
+what is the james webb space telescope: Large infrared space telescope launched in 2021, successor to Hubble.
+what is the hubble space telescope: Space telescope launched in 1990 that has provided groundbreaking images and data.
+who was the first american in space: Alan Shepard (1961).
+who was the first american to orbit earth: John Glenn (1962).
+how many people have walked on the moon: 12 (all American, Apollo program).
+
+# Fun & Miscellaneous
+what is the answer to life the universe and everything: 42 (from The Hitchhiker's Guide to the Galaxy).
+what is the meaning of life: Subjective; often explored in philosophy, religion, and personal reflection.
+how many licks to the center of a tootsie pop: The world may never know (classic commercial); studies vary around 300–400.
+what is schrodinger's cat: Thought experiment about quantum superposition.
+what is the butterfly effect: Concept that small changes can lead to large differences in chaotic systems.
+what is entropy: Measure of disorder; tends to increase in closed systems.
+what is the placebo effect: Beneficial effect produced by a treatment that cannot be attributed to the properties of the placebo itself.
+what is confirmation bias: Tendency to search for or interpret information in a way that confirms one's preexisting beliefs.
+what is the dunning-kruger effect: Cognitive bias where people with low ability overestimate their competence.
+what is stockholm syndrome: Psychological response where hostages develop positive feelings toward their captors.
+what is the mandela effect: Phenomenon where a large group of people misremember the same historical event or detail.
+what is deja vu: Feeling that one has lived through the present situation before.
+what is the baader-meinhof phenomenon: Frequency illusion; noticing something more often after first learning about it.
+
+# People
