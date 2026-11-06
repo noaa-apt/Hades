@@ -1,7 +1,4 @@
-# Hades Knowledge Base - Expansion Pack
-# Same format as the original: key: value
-# Append this whole file to the bottom of your existing knowledge base file.
-# Keys are lowercase. Duplicate keys: the first match usually wins, so none of these repeat your original keys.
+# Hades Knowledge Base - Upd. 11/6/2026@5:22PM EST
 
 # More Capitals
 capital of albania: Tirana.
