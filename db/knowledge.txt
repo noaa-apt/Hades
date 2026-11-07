@@ -1,4 +1,4 @@
-# Hades Knowledge Base - Upd. 11/6/2026@5:22PM EST
+# Hades Knowledge Base - Upd. 11/6/2026@7:19PM EST
 
 # More Capitals
 capital of albania: Tirana.
@@ -3169,6 +3169,794 @@ what format is the knowledge base: Plain text lines in the form key: value, with
 who is john kiriakou: John Chris Kiriakou is an American Central Intelligence Agency Whistleblower, from Sharon, Pennsylvania. He is well known for exposing the CIA's Torture Program, where it was Personally Approved by President, George W. Bush. John was sentenced to 2 Years and 4 Months in Federal Prison, and Pleaded Guilty to one count of intentionally disclosing information identifying a covert agent. John's employment with the CIA Lasted 14 Years.
 who is donald trump: Donald John Trump is the 47th President of The United States Of America. Donald J Trump is in the Republican Party, Donald was President from January 20, 2017, to January 20, 2021, for a total of four years, and began his second term on January 20, 2025, which is ongoing. Donald J Trump is well known to be the Current US President, and his Affiliation with Jeffery Epstein. Proof of Imagery: https://tinyurl.com/Dx4JTEd33
 who is joe biden: Joseph Robinette Biden Jr. is the 46th President of The United States Of America. Joseph is in the Democratic Party, Joseph was President from from 2021 to 2025. Joseph is Commonly known for Falling Asleep during Meetings, & went Viral during being President for Falling off his Bicycle while Riding, and tripping on the stairs to Air Force One.
+
+# More Famous People
+who is nikola tesla: Serbian-American inventor and electrical engineer (1856-1943), known for AC electricity, the Tesla coil and contributions to radio.
+who is galileo galilei: Italian astronomer and physicist (1564-1642) who improved the telescope and confirmed the heliocentric model.
+who is isaac newton: English mathematician and physicist (1643-1727), formulated the laws of motion and universal gravitation.
+who is charles darwin: English naturalist (1809-1882), developed the theory of evolution by natural selection, published On the Origin of Species in 1859.
+who is marie curie: Polish-French physicist and chemist (1867-1934), first person to win Nobel Prizes in two sciences (Physics 1903, Chemistry 1911).
+who is albert einstein: German-born physicist (1879-1955), developed the theory of relativity and won the Nobel Prize in Physics in 1921.
+who is harriet tubman: American abolitionist (c.1822-1913) who escaped slavery and led dozens of others to freedom via the Underground Railroad.
+who is napoleon bonaparte: French military leader and emperor (1769-1821) who dominated Europe and introduced the Napoleonic Code.
+who is cleopatra: Last active ruler of the Ptolemaic Kingdom of Egypt (69-30 BC), known for her alliances with Julius Caesar and Mark Antony.
+who is julius caesar: Roman general and statesman (100-44 BC) who expanded the republic and was assassinated on the Ides of March.
+who is genghis khan: Founder and first Great Khan of the Mongol Empire (c.1162-1227), one of the most conquering rulers in history.
+who is alexander the great: King of Macedon (356-323 BC) who created one of the largest empires in ancient history by age 30.
+who is abraham lincoln: 16th US president (1809-1865) who led the country through the Civil War and abolished slavery.
+who is martin luther king jr: American Baptist minister and civil rights leader (1929-1968), led the movement for racial equality; assassinated in Memphis, Tennessee.
+who is nelson mandela: South African anti-apartheid leader (1918-2013), imprisoned 27 years, became president 1994-1999, Nobel Peace Prize 1993.
+who is mahatma gandhi: Indian independence leader (1869-1948), used nonviolent civil disobedience against British rule; assassinated in 1948.
+who is franklin d roosevelt: 32nd US president (1882-1945), led the US through the Great Depression and World War II, only president elected four times.
+who is dwight eisenhower: 34th US president (1890-1969), former Supreme Allied Commander in WWII, oversaw the Korean War armistice.
+who is harry truman: 33rd US president (1884-1972), ordered the atomic bombings of Japan and initiated the Marshall Plan.
+who is ronald reagan: 40th US president (1911-2004), former actor, oversaw the end of the Cold War and introduced supply-side economic policies.
+who is margaret thatcher: First female UK prime minister (1925-2013), served 1979-1990, known as the Iron Lady.
+who is fidel castro: Cuban revolutionary and leader (1926-2016) who ruled Cuba from 1959 to 2008.
+who is che guevara: Argentine Marxist revolutionary (1928-1967) who played a major role in the Cuban Revolution.
+who is ho chi minh: Vietnamese communist revolutionary leader (1890-1969), president of North Vietnam.
+who is joseph mengele: Nazi SS officer and physician (1911-1979) known for deadly experiments on concentration camp prisoners.
+who is anne frank: German-Dutch Jewish diarist (1929-1945) whose diary written while hiding from the Nazis became a classic of war literature.
+who is harriet beecher stowe: American author (1811-1896) who wrote Uncle Tom's Cabin, a novel that fueled abolitionist sentiment.
+who is frederick douglass: American abolitionist and author (c.1818-1895) who escaped slavery and became a leading antislavery speaker and writer.
+who is booker t washington: American educator and leader (1856-1915), founded Tuskegee Institute and advocated for Black economic self-reliance.
+who is w.e.b. du bois: American civil rights activist and author (1868-1963), co-founder of the NAACP.
+who is florence nightingale: British nurse and statistician (1820-1910), founder of modern nursing.
+who is nikita khrushchev: Soviet leader (1894-1971), led the USSR during the Cuban Missile Crisis and initiated de-Stalinization.
+who is mao zedong: Founder of the People's Republic of China (1893-1976), led the Communist Party to victory in 1949.
+who is benito mussolini: Italian fascist dictator (1883-1945), allied with Hitler in WWII, executed by Italian partisans.
+who is hirohito: Emperor of Japan (1901-1989) during WWII; Japan surrendered in 1945 under his reign.
+who is woodrow wilson: 28th US president (1856-1924), led the US through WWI and proposed the League of Nations.
+who is theodore roosevelt: 26th US president (1858-1919), conservationist who established national parks and won the Nobel Peace Prize.
+who is andrew jackson: 7th US president (1767-1845), known for the Indian Removal Act and the Trail of Tears.
+who is ulysses s grant: 18th US president (1822-1885), commanding general of Union forces in the Civil War.
+who is robert e lee: Confederate general (1807-1870) during the American Civil War, surrendered at Appomattox in 1865.
+who is stonewall jackson: Confederate general (1824-1863) known for his aggressive tactics; accidentally shot by his own troops.
+who is william sherman: Union general (1820-1891) who conducted the March to the Sea during the Civil War.
+who is douglas macarthur: American general (1880-1964) who commanded Allied forces in the Pacific during WWII.
+who is george patton: American general (1885-1945) known for leading tank offensives in North Africa and Europe during WWII.
+who is erwin rommel: German general (1891-1944) known as the Desert Fox for his campaigns in North Africa during WWII.
+who is bernard montgomery: British field marshal (1887-1976) who commanded Allied ground forces on D-Day.
+who is georgy zhukov: Soviet marshal (1896-1974) who played a decisive role in the Eastern Front victories of WWII.
+who is isoroku yamamoto: Japanese admiral (1884-1943) who planned the attack on Pearl Harbor.
+who is charles de gaulle: French general and statesman (1890-1970), led Free France during WWII and later became president.
+who is benazir bhutto: First female prime minister of Pakistan (1953-2007), served two terms; assassinated in 2007.
+who is indira gandhi: Prime minister of India (1917-1984), first and only female PM; assassinated in 1984.
+who is angela merkel: Chancellor of Germany 2005-2021, the first female chancellor; physicist by training.
+who is yasser arafat: Palestinian leader (1929-2004), chairman of the PLO and Nobel Peace Prize co-recipient in 1994.
+who is ariel sharon: Israeli prime minister (1928-2014), former military general.
+who is david ben-gurion: First prime minister of Israel (1886-1973), proclaimed Israeli independence in 1948.
+who is lech walesa: Polish trade-union leader and president (born 1943), led the Solidarity movement, Nobel Peace Prize 1983.
+who is mikhail gorbachev: Soviet leader (1931-2022) whose reforms of glasnost and perestroika contributed to the fall of the USSR.
+who is boris yeltsin: First president of the Russian Federation (1931-2007), oversaw the dissolution of the Soviet Union.
+who is xi jinping: President of China since 2013 and General Secretary of the Communist Party.
+who is kim jong un: Supreme leader of North Korea since 2011.
+who is paul von hindenburg: German field marshal and president (1847-1934) who appointed Hitler as chancellor in 1933.
+who is otto von bismarck: Prussian statesman (1815-1898) who unified Germany in 1871 and became its first chancellor.
+who is kaiser wilhelm ii: Last German emperor (1859-1941) whose aggressive foreign policy contributed to WWI.
+who is franz ferdinand: Archduke of Austria (1863-1914) whose assassination triggered WWI.
+who is mustafa kemal ataturk: Founder and first president of Turkey (1881-1938), modernized and secularized the nation.
+who is saddam hussein: Iraqi president (1937-2006) who ruled from 1979 to 2003; executed after the US-led invasion.
+who is muammar gaddafi: Libyan leader (1942-2011) who ruled for 42 years; killed during the Libyan Civil War.
+who is pol pot: Cambodian dictator (1925-1998) whose Khmer Rouge regime committed genocide, killing an estimated 1.7 million people.
+who is idi amin: Ugandan dictator (c.1925-2003) responsible for widespread atrocities during his rule 1971-1979.
+who is augusto pinochet: Chilean dictator (1915-2006) who seized power in a 1973 coup and ruled until 1990.
+who is francisco franco: Spanish dictator (1892-1975) who ruled after winning the Spanish Civil War in 1939.
+who is joseph goebbels: Nazi propaganda minister (1897-1945), one of Hitler's closest associates.
+who is heinrich himmler: Head of the SS (1900-1945), chief architect of the Holocaust.
+who is albert speer: Nazi architect and armaments minister (1905-1981) who was sentenced at the Nuremberg Trials.
+who is ernst rommel: See who is erwin rommel.
+who is ada lovelace: English mathematician (1815-1852), considered the first computer programmer for her work on Charles Babbage's Analytical Engine.
+who is hedy lamarr: Austrian-American actress and inventor (1914-2000) who co-developed a frequency-hopping communication system that influenced modern WiFi and Bluetooth.
+who is jonas salk: American virologist (1914-1995) who developed the first successful polio vaccine.
+who is albert sabin: American virologist (1906-1993) who developed the oral polio vaccine.
+who is james watt: Scottish inventor (1736-1819) whose improvements to the steam engine drove the Industrial Revolution.
+who is eli whitney: American inventor (1765-1825) who invented the cotton gin.
+who is samuel morse: American inventor (1791-1872) who developed Morse code and an early telegraph system.
+who is alexander graham bell: Scottish-American inventor (1847-1922) who is credited with inventing the first practical telephone.
+who is guglielmo marconi: Italian inventor (1874-1937) who developed radio transmission and shared the Nobel Prize in Physics in 1909.
+who is nikola tesla relation to radio: Tesla and Marconi both contributed to radio; the US Supreme Court ruled in 1943 that Tesla's patents predated Marconi's.
+who is lee de forest: American inventor (1873-1961) known as the father of radio for developing the triode vacuum tube.
+who is philo farnsworth: American inventor (1906-1971) who created the first fully electronic television system.
+who is john logie baird: Scottish engineer (1888-1946) who demonstrated the first working television in 1926.
+who is clyde tombaugh: American astronomer (1906-1997) who discovered Pluto in 1930.
+who is hubble: See who is edwin hubble.
+who is neil armstrong: American astronaut (1930-2012), the first person to walk on the Moon on July 20, 1969.
+who is buzz aldrin: American astronaut (born 1930), the second person to walk on the Moon.
+who is yuri gagarin: Soviet cosmonaut (1934-1968), the first human in space on April 12, 1961.
+who is alan shepard: American astronaut (1923-1998), the first American in space (May 5, 1961) and fifth person on the Moon.
+who is valentina tereshkova: Soviet cosmonaut (born 1937), the first woman in space (June 1963).
+who is sally ride: American physicist (1951-2012), the first American woman in space (1983).
+who is mae jemison: American astronaut and physician (born 1956), the first African American woman in space (1992).
+who is chris hadfield: Canadian astronaut (born 1959) known for his social media presence aboard the ISS.
+who is elon musk: South African-born entrepreneur (born 1971), CEO of Tesla and SpaceX; also owns X (formerly Twitter).
+who is richard branson: British entrepreneur (born 1950), founder of Virgin Group, flew to the edge of space in 2021.
+who is jeff bezos blue origin: Bezos founded Blue Origin and flew to space in 2021 on its New Shepard rocket.
+
+# Wars & Conflicts (expanded)
+what was world war 1: Global conflict from 1914 to 1918, triggered by the assassination of Archduke Franz Ferdinand; resulted in the defeat of Germany and the collapse of several empires.
+what was world war 2: Global conflict from 1939 to 1945 involving the Allied powers against Nazi Germany, Fascist Italy and Imperial Japan; deadliest conflict in history with over 70 million deaths.
+what were the causes of ww1: Assassination of Franz Ferdinand, militarism, alliance systems, imperialism and nationalism (MAIN).
+what were the causes of ww2: Rise of fascism, failure of appeasement, Great Depression economic instability, Treaty of Versailles resentment and Adolf Hitler's expansionism.
+what was the treaty of versailles: 1919 peace treaty that officially ended WWI, imposed harsh reparations and restrictions on Germany.
+what was the blitzkrieg: German lightning war tactic using fast-moving tanks and air support to quickly overwhelm enemies.
+what was the battle of britain: 1940 air campaign by Nazi Germany against the UK; the RAF repelled the Luftwaffe and prevented invasion.
+what was operation barbarossa: Germany's massive invasion of the Soviet Union beginning June 22, 1941, the largest military operation in history.
+what was the battle of stalingrad: 1942-1943 battle on the Eastern Front; a decisive Soviet victory and major turning point of WWII.
+what was the battle of midway: June 1942 naval battle in the Pacific; the US sank four Japanese carriers, turning the tide in the Pacific.
+what was the pacific theater: WWII campaigns fought across the Pacific Ocean and Asia between Allied forces and Imperial Japan.
+what was the battle of the bulge: Germany's last major offensive on the Western Front, December 1944 to January 1945; repelled by Allied forces.
+what was the berlin wall: Barrier built in 1961 dividing East and West Berlin; fell on November 9, 1989, symbolizing the end of the Cold War.
+what was the iron curtain speech: 1946 speech by Winston Churchill describing the Soviet division of Europe.
+what was the truman doctrine: 1947 US policy to support countries resisting Soviet expansion.
+what was the marshall plan: US program (1948-1952) providing economic aid to rebuild Western Europe after WWII.
+what was nato: North Atlantic Treaty Organization, a military alliance formed in 1949 among Western nations for collective defense.
+what was the warsaw pact: Soviet-led military alliance of Eastern Bloc countries formed in 1955 in response to NATO.
+what was mccarthyism: 1950s US campaign led by Senator Joseph McCarthy accusing people of communist ties, often without evidence.
+what was the berlin airlift: 1948-1949 operation by Western Allies to supply West Berlin after the Soviet blockade.
+what was the suez crisis: 1956 conflict when Egypt nationalized the Suez Canal; UK, France and Israel invaded but withdrew under US and Soviet pressure.
+what was the bay of pigs: 1961 failed CIA-backed invasion of Cuba by Cuban exiles trying to overthrow Fidel Castro.
+what was the iran hostage crisis: 1979-1981 crisis in which 52 American diplomats were held hostage in Iran for 444 days.
+what was the falklands war: 1982 conflict between the UK and Argentina over the Falkland Islands; UK retook the islands.
+what was operation desert storm: 1991 coalition military operation that expelled Iraqi forces from Kuwait.
+what was the rwandan genocide: 1994 mass slaughter of Tutsi and moderate Hutu people in Rwanda; approximately 800,000 killed in 100 days.
+what was the bosnian war: 1992-1995 conflict in Bosnia following the breakup of Yugoslavia; included the Srebrenica massacre.
+what was the kosovo war: 1998-1999 conflict between Yugoslavia and ethnic Albanian rebels; NATO intervened with airstrikes.
+what was the war on terror: US-led military campaign launched after the September 11, 2001 attacks targeting al-Qaeda and other terrorist organizations.
+what was operation iraqi freedom: 2003 US-led invasion of Iraq that toppled Saddam Hussein.
+what was the afghanistan war: 2001-2021 conflict in Afghanistan; NATO forces ousted the Taliban following the 9/11 attacks, the Taliban retook control in 2021.
+what was the syrian civil war: Ongoing conflict beginning in 2011 between the Syrian government and various opposition groups; caused massive refugee crisis.
+what was the ukraine war: Russia invaded Ukraine on February 24, 2022; the largest conflict in Europe since WWII; ongoing.
+what was the crimea annexation: Russia annexed Crimea from Ukraine in 2014 following a disputed referendum.
+what was the first gulf war: See what was the gulf war.
+what was the iran-iraq war: 1980-1988 war between Iran and Iraq initiated by Iraq under Saddam Hussein; resulted in stalemate with over one million casualties.
+what was the six day war: June 1967 war between Israel and Arab neighbors Egypt, Jordan and Syria; Israel captured the Sinai, West Bank, Gaza Strip, and Golan Heights.
+what was the yom kippur war: October 1973 surprise attack on Israel by Egypt and Syria; Israel repelled the invasion with US support.
+what was the first world war battles: Major battles include the Marne, Verdun, the Somme, Passchendaele and Gallipoli.
+what was the battle of the somme: WWI battle on the Western Front in 1916; one of the bloodiest battles in history with over one million casualties.
+what was the battle of verdun: WWI battle from February to December 1916; approximately 700,000 casualties.
+what was gallipoli: 1915 WWI campaign by Allied forces against the Ottoman Empire in present-day Turkey; resulted in Allied withdrawal.
+what was the zimmermann telegram: 1917 message from Germany to Mexico proposing a military alliance against the US; helped bring the US into WWI.
+what was the lusitania: British ocean liner sunk by a German U-boat in 1915, killing 1,198 people, contributing to US entry into WWI.
+what was the spanish civil war: 1936-1939 conflict between Republicans and Nationalists led by Franco; served as a testing ground for WWII weaponry.
+what was the sino-japanese war: 1937-1945 conflict between China and Japan, part of the broader WWII Pacific theater.
+what was the rape of nanking: 1937-1938 mass killing and other atrocities committed by Japanese troops in the Chinese city of Nanking.
+what was the cambodian genocide: 1975-1979 mass killings by the Khmer Rouge under Pol Pot; estimated 1.5 to 2 million deaths.
+what was the vietnam war casualties: Approximately 58,000 US deaths; an estimated 2 to 3 million Vietnamese military and civilian deaths.
+what was the tet offensive: 1968 surprise attacks by North Vietnam and Viet Cong during the Vietnamese New Year; a turning point in US public opinion.
+what was the my lai massacre: 1968 killing of hundreds of unarmed South Vietnamese civilians by US troops; a major controversy of the Vietnam War.
+what was the korean war casualty count: Approximately 36,000 US deaths; estimated total of 2.5 million military and civilian deaths on all sides.
+what was the battle of inchon: September 1950 amphibious invasion led by General MacArthur that turned the tide in the Korean War.
+what was the iran nuclear deal: 2015 agreement (JCPOA) limiting Iran's nuclear program in exchange for sanctions relief; the US withdrew in 2018.
+what was the first chechen war: 1994-1996 conflict between Russia and separatist Chechnya; Russia withdrew after suffering heavy losses.
+what was the second chechen war: 1999-2009 conflict in which Russia reasserted control over Chechnya.
+what was the bengali genocide: 1971 atrocities committed by Pakistan during the Bangladesh Liberation War; estimated 300,000 to 3 million deaths.
+what was the taiping rebellion: 1850-1864 massive civil war in China; one of the deadliest conflicts in history with an estimated 20 to 30 million deaths.
+what was the american revolutionary war: 1775-1783 war in which the thirteen American colonies won independence from Britain.
+what was the french and indian war: 1754-1763 North American conflict between Britain and France (and their Native allies); part of the Seven Years' War.
+what was the mexican-american war: 1846-1848 conflict in which the US gained large territories from Mexico including California.
+what was the spanish-american war: 1898 conflict in which the US defeated Spain and gained Puerto Rico, Guam and the Philippines.
+what was the boer war: 1899-1902 conflict in South Africa between the British Empire and the Boer states; led to the creation of the Union of South Africa.
+what was the crimean war: 1853-1856 conflict in which Britain, France and Ottoman Empire fought Russia; notable for the Charge of the Light Brigade.
+what was the opium war: First Opium War (1839-1842) and Second (1856-1860): Britain and allies forced China to open trade and ceded Hong Kong.
+what was the seven years war: 1756-1763 global conflict involving most major European powers; often called the first true world war.
+
+# Ham Radio (expanded)
+what is a ham radio license: Government-issued license required to operate amateur radio; in the US there are three classes: Technician, General and Amateur Extra.
+what is a technician license: Entry-level US ham radio license giving access mainly to VHF and UHF frequencies.
+what is a general license: Intermediate US ham radio license giving access to most HF bands.
+what is an amateur extra license: Highest US ham radio license, giving access to all amateur frequencies.
+what is the fcc part 97: US regulations governing the amateur radio service.
+what is a call sign: Unique identifier assigned to each licensed amateur radio operator.
+what is cq: Ham radio shorthand for "calling any station," used to initiate a contact.
+what is qrz: Ham radio shorthand for "who is calling me?"
+what is a qso: Ham radio term for a two-way contact or conversation.
+what is 73 in ham radio: Ham radio shorthand for "best regards," used to end a contact.
+what is 88 in ham radio: Ham radio shorthand for "love and kisses," often used to close a contact with a friend.
+what is a repeater in ham radio: Automated station that receives and retransmits signals, extending communication range.
+what is a simplex frequency: Ham radio frequency used for direct station-to-station communication without a repeater.
+what is a duplex frequency: Ham radio operation on two frequencies simultaneously, as used by repeaters.
+what is pl tone: Private line tone (CTCSS), a subaudible tone sent with a transmission to open a repeater.
+what is ctcss: Continuous tone coded squelch system; a subaudible tone used to control repeater access.
+what is dcs: Digital coded squelch; a digital method of repeater access control.
+what is hf in ham radio: High frequency, 3-30 MHz; used for long-distance communication via ionospheric skip.
+what is vhf in ham radio: Very high frequency, 30-300 MHz; commonly used for local and regional communication.
+what is uhf in ham radio: Ultra high frequency, 300-3000 MHz; used for local communication and satellites.
+what is the 2 meter band: 144-148 MHz amateur band; one of the most popular for local VHF communication.
+what is the 70cm band: 420-450 MHz amateur UHF band; widely used with repeaters.
+what is the 40 meter band: 7.0-7.3 MHz HF band; popular for regional and long-distance communication.
+what is the 20 meter band: 14.0-14.35 MHz HF band; the most popular for worldwide DX communication.
+what is the 80 meter band: 3.5-4.0 MHz HF band; popular for regional contacts and traffic nets.
+what is the 160 meter band: 1.8-2.0 MHz HF band; known as the top band; similar to AM broadcasting.
+what is the 10 meter band: 28.0-29.7 MHz; popular for long-distance communication especially near solar maximum.
+what is the 6 meter band: 50-54 MHz; known as the magic band for its unusual propagation characteristics.
+what is propagation in ham radio: Way in which radio waves travel from transmitter to receiver.
+what is skip propagation: Radio waves refracted off the ionosphere to reach distant points, skipping over local areas.
+what is sporadic e: Irregular ionospheric propagation on VHF bands, enabling long-distance contacts.
+what is a dipole antenna: Simple antenna consisting of two equal-length conductors fed at the center; a fundamental ham radio antenna.
+what is a yagi antenna: Directional antenna with a driven element, reflector and one or more directors; used for point-to-point communication.
+what is a vertical antenna: Antenna oriented vertically, offering omnidirectional radiation; popular for mobile and portable use.
+what is an end fed antenna: Wire antenna fed at one end rather than the center; popular for portable and home use.
+what is a loop antenna: Antenna formed in a loop shape; can be used for receiving or transmitting.
+what is swr in ham radio: Standing wave ratio; measures how well an antenna is matched to the transmitter; ideal is 1:1.
+what is an antenna tuner: Device that matches the impedance of the transmitter to the antenna; also called an antenna coupler.
+what is a transceiver: Combined transmitter and receiver in one unit.
+what is an hf transceiver: Radio capable of transmitting and receiving on high-frequency amateur bands.
+what is a handheld transceiver: Portable battery-powered radio, commonly called an HT or walkie-talkie.
+what is a mobile rig: Radio designed for use in a vehicle.
+what is a base station: Fixed amateur radio station typically at home.
+what is a linear amplifier: Device that amplifies the output power of a transmitter.
+what is qrp in ham radio: Operating at low power, typically 5 watts or less.
+what is qro in ham radio: Operating at high power.
+what is ssb: Single sideband; an efficient voice mode used on HF bands.
+what is lsb vs usb in ham radio: Lower sideband is used below 10 MHz; upper sideband is used above 10 MHz.
+what is fm in ham radio: Frequency modulation; widely used on VHF and UHF bands.
+what is am in ham radio: Amplitude modulation; used on some HF bands.
+what is cw in ham radio: Continuous wave; Morse code telegraphy; the oldest digital mode.
+what is rtty: Radio teletype; a digital mode that sends text using frequency-shift keying.
+what is psk31: Popular digital mode for keyboard-to-keyboard text communication on HF.
+what is ft8: Digital mode developed by Joe Taylor (K1JT); extremely popular for weak-signal HF contacts.
+what is wspr: Weak signal propagation reporter; a digital mode used to map propagation paths.
+what is aprs: Automatic Packet Reporting System; uses amateur radio to transmit GPS position and other data.
+what is dstar: Digital Smart Technologies for Amateur Radio; a digital voice and data protocol.
+what is dmr: Digital Mobile Radio; a digital voice protocol used in ham and commercial radio.
+what is p25: Project 25; a digital radio standard used by public safety agencies.
+what is wires-x: Yaesu's internet linking system for amateur radio.
+what is echolink: Software allowing licensed hams to communicate via the internet using radio or a computer.
+what is irlp: Internet Radio Linking Project; connects repeaters via the internet.
+what is allstarlink: Open-source VoIP system linking amateur radio nodes.
+what is a net in ham radio: Scheduled on-air meeting of amateur radio operators on a specific frequency.
+what is a traffic net: Amateur radio net that passes formal messages.
+what is the national traffic system: NTS; a US amateur radio network for passing formal message traffic.
+what is an elmer in ham radio: Experienced ham who mentors a newer operator.
+what is a ragchew: Long casual conversation between amateur radio operators.
+what is dx in ham radio: Long-distance communication; also refers to rare or distant stations.
+what is a pile-up: When many stations call a rare DX station simultaneously.
+what is a qsl card: Postcard exchanged between hams to confirm a contact.
+what is lotw: Logbook of the World; ARRL's online system for confirming contacts electronically.
+what is eqsl: Electronic QSL; online QSL confirmation system.
+what is dxcc: DX Century Club; ARRL award for contacting 100 or more countries.
+what is a ham radio contest: Competitive event in which hams try to make as many contacts as possible in a set time.
+what is field day: Annual ARRL event where hams set up portable stations and practice emergency communication.
+what is emcomm: Emergency communications; using amateur radio to support public safety during disasters.
+what is ares: Amateur Radio Emergency Service; group that provides communication during emergencies.
+what is races: Radio Amateur Civil Emergency Service; works with government agencies during emergencies.
+what is a winlink: Email over radio system used by hams and emergency communicators.
+what is js8call: Digital messaging mode derived from FT8, allowing keyboard-to-keyboard conversations.
+what is the arrl: American Radio Relay League; the national organization for amateur radio operators in the US.
+what is the iaru: International Amateur Radio Union; worldwide organization representing national ham radio societies.
+what is the itu: International Telecommunication Union; UN agency that allocates radio frequencies globally.
+what is a band plan: Voluntary or regulatory scheme dividing amateur bands by mode and use.
+what is rf exposure: Electromagnetic radiation from radio transmitters; hams must evaluate and limit exposure.
+what is a dummy load: Device that absorbs transmitter output without radiating; used for testing.
+what is a balun: Balanced-to-unbalanced transformer used to connect coax to balanced antennas.
+what is a choke balun: Ferrite-core choke used to block common-mode current on a coax feedline.
+what is coax: Coaxial cable; shielded cable used to connect radios to antennas.
+what is pl-259: Common coaxial connector used in ham radio on HF and VHF equipment.
+what is an n connector: Weatherproof coaxial connector used on UHF and microwave equipment.
+what is sma connector: Small coaxial connector used on handheld radios and other compact equipment.
+what is a frequency counter: Device that measures the frequency of a signal.
+what is an oscilloscope: Instrument that displays waveforms; used in radio testing and repair.
+what is a spectrum analyzer: Instrument that displays signal amplitude versus frequency; used to analyze radio signals.
+what is a sdr radio: Software-defined radio; a radio where most functions are performed by software rather than hardware.
+what is a rtl-sdr dongle: Inexpensive USB dongle that can receive a wide range of frequencies when used with SDR software.
+what is gpredict: Free open-source satellite tracking program used by hams.
+what is satellite operation in ham radio: Using amateur satellites to relay voice or data between ground stations.
+what is oscar: Orbiting Satellite Carrying Amateur Radio; name given to ham radio satellites.
+what is meteor scatter: Radio propagation using ionized trails from meteors; can enable VHF contacts over 2,000 km.
+what is moonbounce: EME, earth-moon-earth; radio signals bounced off the Moon to communicate over extreme distances.
+what is tropo ducting: VHF and UHF propagation via temperature inversions in the troposphere; can enable contacts of hundreds of miles.
+what is gray line in ham radio: Twilight zone at dawn and dusk where HF propagation can be enhanced.
+what is a fox hunt in ham radio: Direction-finding contest where participants use radios to locate a hidden transmitter.
+what is rdf in ham radio: Radio direction finding; using a directional antenna to locate a transmitter.
+what is a yaesu ft-891: Popular HF mobile transceiver by Yaesu.
+what is an icom ic-7300: Popular HF transceiver with built-in SDR and spectrum scope by Icom.
+what is a kenwood ts-590sg: Popular HF transceiver known for receiver performance.
+what is a baofeng uv-5r: Inexpensive dual-band handheld transceiver widely used by beginners; must be licensed to transmit.
+what is a yaesu ft-60: Rugged dual-band handheld transceiver by Yaesu.
+what is a diamond x50a: Popular dual-band vertical base antenna for 2m and 70cm.
+what is ham radio phonetic alphabet: Same as NATO phonetic alphabet: Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
+what is a vanity call sign: Call sign chosen by a licensee from available options rather than assigned sequentially.
+what is an amateur radio license expiration: US licenses are valid for 10 years and must be renewed.
+what is the minimum age for a ham license: There is no minimum age in the US.
+what is the ham radio exam: Written test on regulations, operating practices and electronics; no Morse code required since 2007.
+what is the technician exam element: Element 2 exam with 35 questions.
+what is the general exam element: Element 3 exam with 35 questions.
+what is the amateur extra exam element: Element 4 exam with 50 questions.
+
+# Animals (expanded)
+what is a platypus: Semi-aquatic egg-laying mammal from Australia; one of the few venomous mammals, with a bill like a duck.
+what is a pangolin: Scaly anteater found in Africa and Asia; the most trafficked mammal in the world.
+what is a quokka: Small marsupial from Western Australia known for its apparent smile; very friendly toward humans.
+what is a tardigrade: Microscopic animal (water bear) known for extreme survival ability including surviving in space.
+what is a komodo dragon: Largest living lizard, found on Indonesian islands; delivers bacteria and venom through its bite.
+what is an axolotl: Mexican salamander that retains larval features throughout its life; critically endangered.
+what is a narwhal: Arctic whale with a long spiral tusk, actually an elongated canine tooth.
+what is a mantis shrimp: Marine crustacean with the most complex color vision of any animal and an extremely powerful strike.
+what is a mimic octopus: Octopus that can imitate the shape and behavior of other animals like flatfish and lionfish.
+what is a blue-ringed octopus: Small but highly venomous octopus found in the Pacific; venom has no antidote.
+what is a bombardier beetle: Beetle that ejects a hot chemical spray from its abdomen as a defense.
+what is a pistol shrimp: Shrimp that snaps its claw to create a cavitation bubble that stuns or kills prey.
+what is a hagfish: Jawless fish that produces large amounts of slime when threatened.
+what is a lamprey: Jawless parasitic fish that attaches to other fish and feeds on their blood.
+what is a coelacanth: Ancient fish thought extinct for 65 million years until rediscovered in 1938; a living fossil.
+what is an electric eel: South American freshwater fish that can produce electric shocks up to 860 volts.
+what is a glass frog: Frog with transparent skin on its underside through which internal organs are visible.
+what is a star-nosed mole: North American mole with a unique star-shaped nose used to detect prey by touch.
+what is a fennec fox: Smallest wild canid, native to the Sahara, known for its very large ears.
+what is an aardvark: African mammal with a pig-like snout that feeds on ants and termites at night.
+what is a binturong: Southeast Asian mammal also called a bearcat; smells like buttered popcorn due to a chemical in its urine.
+what is a fossa: Cat-like carnivore found only in Madagascar; the island's largest native predator.
+what is a kinkajou: Rainforest mammal related to raccoons; has a prehensile tail and feeds mainly on fruit.
+what is a wolverine animal: Largest land-dwelling mustelid; known for ferocity and strength relative to size.
+what is a honey badger: African and Asian mustelid known for its fearless behavior and thick loose skin.
+what is an ocelot: Medium-sized wild cat from the Americas with a spotted coat.
+what is a serval: African wild cat with very long legs and large ears.
+what is a caracal: Medium-sized wild cat from Africa and Asia known for its long black ear tufts.
+what is a margay: Small wild cat from Central and South America that can rotate its ankles to climb headfirst down trees.
+what is a snow leopard: Endangered big cat from Central Asia adapted to cold mountain environments.
+what is an amur leopard: Critically endangered subspecies of leopard from the Russian Far East.
+what is a saiga antelope: Critically endangered antelope from Central Asia with a distinctive bulbous nose.
+what is a vaquita: World's smallest and most endangered cetacean; a porpoise found only in the northern Gulf of California.
+what is an irrawaddy dolphin: Freshwater and coastal dolphin found in rivers and coastal waters of South and Southeast Asia.
+what is a dugong: Marine mammal related to the manatee; feeds on seagrass in coastal waters of the Indian and Pacific Oceans.
+what is a manatee: Large aquatic herbivore found in rivers, estuaries and coastal waters; also called a sea cow.
+what is a beluga whale: Small white whale found in Arctic and sub-Arctic waters; known for its vocalizations.
+what is an orca: Largest member of the dolphin family; apex predator that hunts in coordinated pods.
+what is a bowhead whale: Arctic whale with the thickest blubber and potentially the longest lifespan of any mammal.
+what is a sei whale: Large baleen whale and one of the fastest whales, reaching speeds of up to 50 km/h.
+what is a fin whale: Second-largest animal on Earth after the blue whale.
+what is a sperm whale: Largest toothed predator; dives deeper than almost any other mammal to hunt giant squid.
+what is a right whale: Critically endangered whale nearly hunted to extinction; now protected but threatened by ship strikes.
+what is a humpback whale: Baleen whale known for its complex songs and acrobatic breaching.
+what is an arapaima: One of the largest freshwater fish in the world, found in the Amazon basin.
+what is a piranha: Freshwater fish from South America known for its sharp teeth; more of a scavenger than an aggressive predator.
+what is an anaconda: World's heaviest snake, found in the Amazon basin; a non-venomous constrictor.
+what is a black mamba: One of Africa's most dangerous snakes; fast-moving, highly venomous and aggressive when cornered.
+what is a taipan: Genus of venomous snakes from Australia and New Guinea; the inland taipan has the most toxic venom.
+what is a king cobra: World's longest venomous snake, found in forests from India to Southeast Asia.
+what is a gaboon viper: African viper with the longest fangs of any snake and very high venom yield.
+what is a monitor lizard: Large lizard from Africa, Asia and Australia; Nile and Komodo monitors are among the largest.
+what is a chameleon: Reptile known for color-changing ability, independently moving eyes and a long sticky tongue.
+what is a thorny devil: Small Australian lizard covered in spines that drinks water through its skin.
+what is a frilled lizard: Australian lizard that extends a large frill around its neck when threatened.
+what is a flying fish: Marine fish that can glide above water using enlarged pectoral fins; can travel up to 200 meters.
+what is a seahorse: Marine fish where the male carries and births the young; moves using a dorsal fin.
+what is a leafy sea dragon: Australian marine fish closely related to seahorses, with leaf-like appendages for camouflage.
+what is a blobfish: Deep-sea fish whose gelatinous appearance is due to decompression when brought to the surface.
+what is an anglerfish: Deep-sea fish with a bioluminescent lure to attract prey in the dark ocean.
+what is a vampire squid: Deep-sea cephalopod that feeds on marine snow; not a true squid.
+what is a horseshoe crab: Marine arthropod more closely related to spiders than crabs; its blue blood is used in medical testing.
+what is a monarch butterfly: North American butterfly known for its epic annual migration of up to 4,500 km.
+what is a bombardier beetle: See bombardier beetle entry above.
+what is a japanese giant hornet: Largest hornet species; its sting delivers potent venom and can be fatal in large doses.
+what is an atlas moth: One of the largest moths in the world, with a wingspan up to 30 cm.
+what is a goliath birdeater: World's largest spider by mass, found in South America.
+what is a giant huntsman spider: World's largest spider by leg span, found in Laos.
+what is a sydney funnel-web spider: One of the most dangerous spiders in the world; native to eastern Australia.
+what is a black widow: Venomous spider found worldwide; female is more venomous and sometimes eats the male after mating.
+what is a brown recluse: Venomous US spider whose bite can cause necrotic skin lesions.
+what is a camel spider: Arachnid from deserts worldwide; not actually a spider; can run fast and has powerful jaws.
+what is a scorpion: Arachnid with a venomous stinger; most are not deadly to humans.
+what is a deathstalker scorpion: One of the world's most venomous scorpions, found in North Africa and the Middle East.
+what is a centipede: Many-legged arthropod with one pair of legs per segment; predatory and venomous.
+what is a giant millipede: Arthropod with two pairs of legs per segment; giant African millipedes reach 38 cm.
+what is a praying mantis: Carnivorous insect that holds its forelegs in a prayer-like position; known for ambush hunting.
+what is a walking stick insect: Insect that resembles a twig or stick; masters of camouflage.
+what is a firefly: Beetle that produces bioluminescent flashes to attract mates.
+what is a dung beetle: Beetle that rolls balls of dung for food and nesting; some navigate by the Milky Way.
+what is a leafcutter ant: Tropical ant that cuts leaves to cultivate fungus gardens for food.
+what is an army ant: Nomadic ant that travels in large swarms and attacks prey collectively.
+what is a bee eater bird: Colorful insectivorous birds that catch bees and other insects in flight.
+what is a secretary bird: Large African raptor that hunts on the ground, killing prey by stamping on it.
+what is a shoebill: Large African bird with a massive shoe-shaped bill; stands up to 1.5 meters tall.
+what is a kookaburra: Australian kingfisher known for its loud call that sounds like laughter.
+what is a lyrebird: Australian bird that is one of the best mimics in the animal world.
+what is a bird of paradise: New Guinean bird known for the spectacular plumage of the males.
+what is a frigatebird: Seabird with the largest wingspan-to-body-weight ratio; known for inflating a red throat pouch.
+what is a booby: Seabird named for its clumsy behavior on land; blue-footed boobies are most iconic.
+what is a gannet: Large seabird that dives into the ocean at speeds up to 100 km/h to catch fish.
+what is a puffin: Seabird with a colorful bill that can hold multiple fish at once.
+what is a fulmar: Seabird that looks like a gull but is related to petrels; can spit a foul-smelling oil at predators.
+what is a roadrunner: Fast-running bird from North America that is closely related to cuckoos.
+what is a turaco: Colorful African bird with pigments unique in the bird world: turacoverdin (green) and turacin (red).
+what is a hoatzin: South American bird whose chicks have wing claws for climbing, recalling ancient bird ancestors.
+what is a cassowary: Large flightless bird from Australia and New Guinea considered the most dangerous bird to humans.
+what is a rhea: Large flightless bird from South America, related to the ostrich and emu.
+what is an emu: Second-largest living bird, native to Australia; flightless.
+what is a kiwi bird: Small flightless nocturnal bird of New Zealand; has a long bill and lays the largest egg relative to body size of any bird.
+what is a dodo: Extinct flightless bird from Mauritius, last seen in the late 17th century; became a symbol of human-caused extinction.
+what is a passenger pigeon: Formerly abundant North American bird that went extinct in 1914 due to overhunting and habitat loss.
+what is a thylacine: Tasmanian tiger; carnivorous marsupial declared extinct in 1936; rare sightings still reported.
+what is a woolly mammoth: Prehistoric elephant species that lived during the Ice Age; last populations survived until about 4,000 years ago.
+what is a saber-toothed cat: Prehistoric predator with elongated canine teeth; Smilodon is the most famous example.
+what is a dire wolf: Large prehistoric wolf that lived in the Americas during the Ice Age.
+
+# Planes & Aviation
+what is lift in aviation: Upward force generated by an airfoil moving through air, keeping an aircraft aloft.
+what is drag in aviation: Aerodynamic resistance that opposes an aircraft's motion.
+what is thrust in aviation: Forward force produced by engines to propel an aircraft.
+what is an airfoil: Curved surface designed to generate lift as air flows over it.
+what is a fuselage: Main body of an aircraft to which wings, tail and engines are attached.
+what is a rudder on a plane: Vertical control surface on the tail that controls yaw.
+what is an elevator on a plane: Horizontal control surface on the tail that controls pitch.
+what is an aileron: Control surface on the wing that controls roll.
+what is flaps on a plane: Hinged surfaces on the wing trailing edge that increase lift and drag for takeoff and landing.
+what is a spoiler on a plane: Movable surface that disrupts airflow over the wing, reducing lift and increasing drag.
+what is a slat on a plane: Leading edge device that increases lift at low speeds.
+what is a landing gear: Undercarriage of an aircraft, including wheels, used for takeoff and landing.
+what is an avionics: Electronic systems used in aircraft for navigation, communication and flight control.
+what is an autopilot: System that automatically controls an aircraft's flight without direct pilot input.
+what is ifr: Instrument flight rules; flying using instruments rather than visual reference.
+what is vfr: Visual flight rules; flying using visual reference to the ground.
+what is atc: Air traffic control; ground-based controllers who guide aircraft.
+what is a runway: Paved strip on which aircraft take off and land.
+what is a taxiway: Path connecting runways, terminals and hangars.
+what is ground effect: Increased lift and decreased drag when an aircraft is very close to the ground.
+what is stall in aviation: Loss of lift when the wing exceeds the critical angle of attack.
+what is a spin in aviation: Aggravated stall in which the aircraft rotates around the vertical axis while descending.
+what is mach number: Ratio of an object's speed to the speed of sound at that altitude.
+what is supersonic: Faster than the speed of sound (above Mach 1).
+what is hypersonic: Five times or more the speed of sound (above Mach 5).
+what is the sound barrier: Transition to supersonic speed; Chuck Yeager first broke it in 1947 in the Bell X-1.
+what is contrails: Condensation trails left behind jet aircraft in the sky; formed from water vapor in exhaust.
+what is a turbojet engine: Jet engine that compresses air, adds fuel, combusts the mixture and expels exhaust to create thrust.
+what is a turbofan engine: Most common modern jet engine; has a large fan at the front for extra thrust and fuel efficiency.
+what is a turboprop engine: Jet engine that drives a propeller; used on smaller regional aircraft.
+what is a piston engine in aviation: Reciprocating engine similar to a car engine; used in smaller general aviation aircraft.
+what is a jet engine afterburner: Device that injects extra fuel into the exhaust to dramatically increase thrust temporarily.
+what is a fly by wire system: Electronic flight control system replacing mechanical connections with electronic signals.
+what is glass cockpit: Aircraft cockpit with digital displays replacing traditional analog gauges.
+what is tcas: Traffic Collision Avoidance System; warns pilots of nearby aircraft and advises maneuvers.
+what is gpws: Ground Proximity Warning System; warns pilots when an aircraft is too close to terrain.
+what is a black box: Informal name for the flight data recorder (FDR) and cockpit voice recorder (CVR) on aircraft.
+what is the wright flyer: First successful powered airplane, flown by Orville Wright on December 17, 1903, at Kitty Hawk, North Carolina.
+what is a biplane: Aircraft with two sets of stacked wings; common in early aviation.
+what is a monoplane: Aircraft with a single set of wings; the dominant design from the 1930s onward.
+what is a flying wing: Aircraft with no fuselage; the wing contains everything; examples include the B-2 Spirit.
+what is a delta wing: Triangular wing shape used on supersonic aircraft like the Concorde and F-16.
+what is a swept wing: Wings angled backward to reduce drag at high speeds; standard on jets since WWII.
+what is a variable geometry wing: Wing that can change its sweep angle in flight, like the F-14 Tomcat.
+what is a canard on an aircraft: Small forward wing ahead of the main wing that provides pitch control.
+what is a seaplane: Aircraft capable of taking off and landing on water.
+what is a flying boat: Aircraft whose fuselage doubles as a boat hull for water operations.
+what is a glider: Unpowered aircraft that relies on thermals and updrafts to stay aloft.
+what is an ultralight aircraft: Very light aircraft with a maximum weight of about 254 lb; minimal certification required.
+what is a business jet: Small to medium jet aircraft used for private or corporate travel.
+what is a cargo aircraft: Aircraft designed to carry freight rather than passengers.
+what is the wright brothers plane: See what is the wright flyer.
+what is the spitfire: British WWII fighter aircraft known for its elliptical wings; played a decisive role in the Battle of Britain.
+what is the messerschmitt bf 109: Primary WWII German fighter aircraft.
+what is the p-51 mustang: American WWII long-range fighter that escorted bombers deep into Germany.
+what is the b-17 flying fortress: American WWII heavy bomber used extensively in the European theater.
+what is the b-29 superfortress: American WWII bomber used in the Pacific; dropped the atomic bombs on Japan.
+what is the lancaster bomber: British WWII heavy bomber used in night raids over Germany.
+what is the zero fighter: Japanese WWII carrier-based fighter aircraft known for its maneuverability.
+what is the corsair aircraft: US WWII fighter used by both the Navy and Marines, known for its gull wings.
+what is the hellcat aircraft: US WWII Navy fighter that dominated the Pacific air war against the Zero.
+what is the me 262: First operational jet fighter, used by Germany late in WWII.
+what is the f-86 sabre: US jet fighter used in the Korean War; first aircraft to exceed Mach 1 in level flight (disputed).
+what is the mig-15: Soviet jet fighter that proved a formidable opponent to the F-86 in Korea.
+what is the mig-21: Widely produced Soviet supersonic fighter; operated by over 60 countries.
+what is the f-4 phantom: US supersonic jet fighter used extensively in the Vietnam War.
+what is the sr-71 blackbird: US Air Force strategic reconnaissance aircraft; the fastest crewed jet aircraft ever, over Mach 3.
+what is the u-2 spy plane: High-altitude reconnaissance aircraft used by the US since the 1950s; a U-2 was shot down over the USSR in 1960.
+what is the f-14 tomcat: US Navy supersonic fighter with variable sweep wings; famous from Top Gun.
+what is the f-15 eagle: US Air Force air superiority fighter with an unmatched combat record; still in service.
+what is the f-16 fighting falcon: Lightweight US multirole fighter; one of the most widely used jets in the world.
+what is the f/a-18 hornet: US Navy multirole carrier-based fighter.
+what is the f-22 raptor: US fifth-generation stealth air superiority fighter; the first operational stealth fighter.
+what is the f-35 lightning ii: US fifth-generation stealth multirole fighter; three variants for different services.
+what is the b-2 spirit: US stealth flying-wing strategic bomber capable of delivering nuclear weapons.
+what is the b-21 raider: Next-generation US stealth bomber announced to replace the B-1 and B-2.
+what is the a-10 thunderbolt: US ground-attack aircraft designed around its 30mm Gatling cannon; known as the Warthog.
+what is the ac-130: US Air Force gunship based on the C-130 transport, with heavy artillery for ground support.
+what is the c-130 hercules: US four-engine turboprop transport aircraft; the most produced military transport.
+what is the c-17 globemaster: Large US strategic airlift jet capable of landing on short and unpaved runways.
+what is the e-3 sentry: US airborne warning and control aircraft (AWACS) based on the Boeing 707.
+what is the kc-135: US Air Force aerial refueling tanker based on the Boeing 707.
+what is concorde: Supersonic passenger airliner operated by British Airways and Air France from 1976 to 2003; cruised at Mach 2.
+what is the boeing 747: First widebody jumbo jet, introduced in 1970; known as the Queen of the Skies.
+what is the boeing 737: Most commercially successful jet airliner; the 737 MAX had issues with its MCAS system.
+what is the boeing 777: Wide-body long-range twin-engine jet; one of the bestselling wide-body airliners.
+what is the boeing 787 dreamliner: Wide-body composite airliner launched in 2011; uses 20 percent less fuel than comparable aircraft.
+what is the airbus a380: Double-deck wide-body airliner; the largest passenger aircraft ever built; production ended in 2021.
+what is the airbus a350: Composite wide-body airliner competing with the 787; known for fuel efficiency.
+what is the airbus a320: Narrow-body airliner family; the first to use fly-by-wire controls in a commercial jet.
+what is the tupolev tu-144: Soviet supersonic airliner; first supersonic airliner to fly (1968) and to enter service (1975).
+what is the antonov an-225: Largest cargo aircraft ever built; destroyed in 2022 during the Russian invasion of Ukraine.
+what is a drone uav: Unmanned aerial vehicle; aircraft operated remotely or autonomously.
+what is a predator drone: US military unmanned aircraft used for surveillance and strikes; armed version is the MQ-1.
+what is a reaper drone: MQ-9 Reaper; US military armed UAV capable of strikes and long-duration surveillance.
+what is a global hawk drone: RQ-4 Global Hawk; large US high-altitude surveillance drone with intercontinental range.
+what is a stealth aircraft: Aircraft designed to minimize radar, infrared and other detection signatures.
+what is radar cross section: Measure of how detectable an object is by radar; stealth aircraft minimize this.
+what is an aircraft carrier: Warship that serves as a seagoing airbase; the US operates the most with 11 active.
+what is a catapult on an aircraft carrier: Device that rapidly accelerates aircraft for takeoff from a carrier.
+what is vtol: Vertical takeoff and landing; aircraft capability to take off and land without a runway.
+what is stol: Short takeoff and landing; aircraft designed to operate from short runways.
+
+# Helicopters
+what is a helicopter: Rotary-wing aircraft that generates lift and thrust using rotating blades.
+what is a main rotor: Primary rotor providing lift and thrust in a helicopter.
+what is a tail rotor: Small rotor at the tail that counteracts the torque of the main rotor, allowing directional control.
+what is a tandem rotor: Helicopter configuration with two main rotors rotating in opposite directions; used by Chinook.
+what is a coaxial rotor: Two rotors stacked on the same shaft rotating in opposite directions, eliminating the need for a tail rotor.
+what is autorotation in helicopters: Emergency descent technique where the rotor is driven by air flowing upward; allows safe landing after engine failure.
+what is a helicopter hoist: Device for lifting people or equipment while hovering.
+what is a sling load: Cargo suspended beneath a helicopter by a cable.
+what is nap of the earth flying: Very low level flight following terrain contours to avoid radar and enemy detection.
+what is the bell uh-1 iroquois: Iconic Vietnam War era utility helicopter known as the Huey.
+what is the uh-60 black hawk: US Army utility helicopter; primary tactical transport since the 1980s.
+what is the ch-47 chinook: US tandem-rotor heavy transport helicopter; widely used by military forces worldwide.
+what is the ah-64 apache: US Army primary attack helicopter armed with Hellfire missiles and a 30mm cannon.
+what is the ch-53 sea stallion: US Marines heavy transport helicopter; the largest helicopter in US military service.
+what is the uh-72 lakota: Light utility helicopter used by the US Army and National Guard.
+what is the bell ah-1 cobra: First purpose-built attack helicopter, introduced in 1967; still in use in various variants.
+what is the kaman sh-2 seasprite: US Navy shipborne helicopter used for anti-submarine warfare.
+what is the sikorsky r-4: First mass-produced helicopter, used by the US military during WWII.
+what is the sikorsky s-70: Military variant family of the Black Hawk helicopter.
+what is the mi-8: Soviet and Russian medium transport helicopter; one of the most produced helicopters in history.
+what is the mi-24 hind: Soviet attack and transport helicopter known as the flying tank.
+what is the mi-26: World's largest and most powerful production helicopter; Russian heavy-lift helicopter.
+what is the ka-52 alligator: Russian coaxial-rotor attack helicopter.
+what is a eurocopter as365 dauphin: French medium utility helicopter used for offshore transport, law enforcement and search and rescue.
+what is the nh90: European multi-role military helicopter operated by several NATO nations.
+what is the tiger helicopter: European attack helicopter developed jointly by France and Germany.
+what is the westland lynx: British military helicopter used for maritime and land operations.
+what is the augusta a109: Italian light helicopter widely used for VIP transport, law enforcement and medical use.
+what is the bell 206: Light turbine helicopter widely used in law enforcement, news gathering and corporate transport.
+what is the bell 429: Light twin-engine helicopter used for air medical, offshore and law enforcement operations.
+what is the robinson r22: Light two-seat piston helicopter popular for training.
+what is the robinson r44: Four-seat piston helicopter; the most produced helicopter in its class.
+what is the sikorsky s-92: Heavy civil helicopter used for offshore transport and VIP roles.
+what is a medevac helicopter: Medical evacuation helicopter equipped to transport and treat patients in flight.
+what is a hoist rescue: Helicopter rescue where a person is lifted by cable while the aircraft hovers.
+what is a hot and high: Conditions of high altitude and high temperature that reduce helicopter performance.
+what is ground resonance in helicopters: Dangerous vibration that can destroy a helicopter while on the ground.
+what is vortex ring state: Dangerous condition where a helicopter descends into its own rotor wash, losing lift; also called settling with power.
+what is translational lift: Increased efficiency achieved when a helicopter transitions from hover to forward flight.
+what is effective translational lift: Speed at around 16 to 24 knots where rotor efficiency improves significantly.
+what is a fenestron tail rotor: Enclosed tail rotor in a shroud, used on some Airbus helicopters for safety and noise reduction.
+what is a notar system: NO TAil Rotor system; uses a jet of air to counteract torque instead of a tail rotor.
+what is a helicopter simulator: Device used to train helicopter pilots in realistic flight environments without risk.
+
+# Vehicles (expanded)
+what is horsepower: Unit of engine power; one mechanical horsepower equals about 745.7 watts.
+what is torque in vehicles: Rotational force from an engine; determines how well a vehicle can accelerate from rest.
+what is a transmission: Device that transfers engine power to the drive wheels; can be manual, automatic or CVT.
+what is a cvt: Continuously variable transmission; uses a belt and pulleys to provide an infinite range of gear ratios.
+what is a manual transmission: Gearbox where the driver selects gears using a clutch and gear lever.
+what is an automatic transmission: Gearbox that changes gears automatically based on speed and throttle.
+what is a differential: Device that allows the driven wheels to rotate at different speeds when cornering.
+what is all wheel drive: Drivetrain system that powers all four wheels; can vary torque distribution.
+what is four wheel drive: System that locks front and rear axles for maximum off-road traction; usually part-time.
+what is traction control: System that reduces wheel spin during acceleration for improved traction.
+what is abs in vehicles: Anti-lock braking system; prevents wheels from locking during hard braking.
+what is electronic stability control: System that detects and reduces skidding by applying brakes to individual wheels.
+what is a suspension system: System of springs and dampers connecting the wheels to the chassis.
+what is a coilover suspension: Suspension unit combining a coil spring and shock absorber.
+what is an air suspension: Suspension that uses air bags instead of springs for a smoother ride and adjustable height.
+what is an independent suspension: Suspension that allows each wheel to move independently.
+what is live axle suspension: Suspension where both wheels share a single rigid axle.
+what is ground clearance: Distance between the lowest point of a vehicle and the ground.
+what is a unibody vehicle: Vehicle where the body and frame are a single integrated structure.
+what is a body-on-frame vehicle: Vehicle where the body sits on a separate ladder-type frame; common in trucks and SUVs.
+what is an internal combustion engine: Engine that burns fuel inside cylinders to produce power.
+what is a diesel engine: Engine that ignites fuel by compression rather than a spark plug.
+what is an otto cycle: Four-stroke cycle of intake, compression, combustion and exhaust used in petrol engines.
+what is a diesel cycle: Compression ignition cycle similar to the Otto cycle but without a spark plug.
+what is a rotary engine: Engine using a rotating triangular rotor instead of pistons; associated with Mazda's Wankel engine.
+what is a hybrid vehicle: Vehicle that uses both an internal combustion engine and an electric motor.
+what is a plug-in hybrid: Hybrid that can charge its battery from an external electrical source.
+what is a range extender ev: Electric vehicle with a small engine or generator to extend range.
+what is regenerative braking: System that converts kinetic energy during braking into electricity to recharge the battery.
+what is a solid state battery: Next-generation battery technology using a solid electrolyte for higher energy density and safety.
+what is a fuel cell vehicle: Vehicle powered by hydrogen fuel cells that produce electricity through a chemical reaction.
+what is a turbocharger: Device that uses exhaust gases to spin a turbine and force more air into the engine.
+what is a supercharger: Engine-driven device that forces more air into the engine for increased power.
+what is a twin turbo: Two turbochargers used together, often sequentially or in parallel.
+what is an intercooler: Heat exchanger that cools compressed air from a turbocharger before it enters the engine.
+what is an exhaust gas recirculation: EGR system that routes some exhaust gases back into the engine to reduce emissions.
+what is a catalytic converter: Device in the exhaust that reduces harmful emissions by converting pollutants.
+what is particulate filter: Device that traps soot particles from diesel exhaust.
+what is engine displacement: Total volume swept by all pistons in an engine, usually measured in liters or cc.
+what is compression ratio: Ratio of cylinder volume at bottom dead center to volume at top dead center.
+what is an obd port: On-board diagnostics port used to access a vehicle's electronic diagnostic system.
+what is a check engine light: Dashboard warning indicating the engine management system has detected a fault.
+what is tpms: Tire pressure monitoring system; warns the driver of low tire pressure.
+what is an anti-roll bar: Bar connecting opposite wheels to reduce body roll in corners.
+what is power steering: System using hydraulic or electric assistance to make steering easier.
+what is rack and pinion steering: Common steering mechanism converting rotation of the steering wheel to lateral movement.
+what is a disc brake: Braking system using calipers to grip a rotating disc; standard on most modern vehicles.
+what is a drum brake: Older braking system using brake shoes pressed against the inside of a drum; still used at the rear of some vehicles.
+what is brake fade: Reduction in braking effectiveness due to heat buildup.
+what is brembo brakes: Italian manufacturer of high-performance brake systems used in sports and luxury cars.
+what is a monocoque chassis: Chassis where the body structure carries the structural load.
+what is a space frame chassis: Three-dimensional framework of tubes providing structural rigidity with low weight.
+what is the volkswagen beetle: Iconic German small car designed in the 1930s; one of the bestselling cars of all time.
+what is the ford mustang: American muscle car introduced in 1964; created the pony car segment.
+what is the chevrolet camaro: American muscle car introduced in 1966 as a rival to the Mustang.
+what is the dodge challenger: American muscle car introduced in 1970; revived in 2008.
+what is the dodge charger: American muscle car introduced in 1966; well known for its use in The Dukes of Hazzard.
+what is the ford gt40: American racing car that won Le Mans four consecutive times from 1966 to 1969.
+what is the ferrari 250 gto: Iconic Italian racing and road car from the early 1960s; among the most valuable cars ever sold.
+what is the lamborghini miura: 1966 Italian mid-engine sports car considered the first supercar.
+what is the porsche 911: Iconic German rear-engine sports car introduced in 1963 and still in production.
+what is the bugatti veyron: Supercar with a 1,001 hp W16 engine introduced in 2005; then the world's fastest production car.
+what is the bugatti chiron: Successor to the Veyron; a 1,479 hp hypercar with a top speed electronically limited to 261 mph.
+what is the koenigsegg jesko: Swedish hypercar designed to exceed 300 mph.
+what is the ssc tuatara: American hypercar claimant for top speed; reached 282.9 mph in a measured run.
+what is the dodge viper: American high-performance sports car with a large V10 engine.
+what is the chevrolet corvette: American sports car produced since 1953; the C8 is mid-engine.
+what is the acura nsx: Japanese-American supercar with a hybrid twin-turbo V6 and three electric motors.
+what is the nissan gt-r: Japanese performance car known as Godzilla for its high performance at a relatively low price.
+what is the toyota supra: Japanese sports car; the A80 Supra is iconic with its 2JZ engine.
+what is the mazda rx-7: Japanese sports car with a rotary Wankel engine produced from 1978 to 2002.
+what is the honda nsx: Japanese supercar developed with Ayrton Senna's input; sold as Acura NSX in the US.
+what is the subaru wrx: Japanese performance sedan with all-wheel drive; popular in rally racing.
+what is the mitsubishi lancer evolution: Japanese performance sedan rival to the WRX; last produced in 2016.
+what is the volkswagen golf gti: Performance version of the Golf hatchback; a benchmark hot hatch since 1976.
+what is a hot hatch: High-performance version of a small hatchback.
+what is a muscle car: American high-performance car with a large V8 engine, popular in the 1960s and 1970s.
+what is a supercar: High-performance exotic car with exceptional speed and handling.
+what is a hypercar: Highest tier of performance car, often exceeding supercar capabilities in speed and technology.
+what is a crossover suv: Vehicle combining the features of a car and an SUV; built on a car platform.
+what is a pickup truck: Truck with an open cargo bed at the rear; the most popular vehicle segment in the US.
+what is the ford f-series: Best-selling vehicle in the US for over 40 years; includes the F-150, F-250 and F-350.
+what is the ram 1500: US full-size pickup truck; primary competitor to the F-150.
+what is the chevrolet silverado: US full-size pickup truck; third in US sales behind F-Series and Ram.
+what is the jeep wrangler: Iconic American off-road vehicle descended from the WWII Jeep.
+what is a land rover defender: British off-road vehicle known for extreme capability; modernized version launched in 2020.
+what is the toyota land cruiser: Japanese SUV known for its legendary off-road ability and reliability.
+what is the humvee: High Mobility Multipurpose Wheeled Vehicle; US military utility vehicle that inspired the civilian Hummer.
+what is the m1 abrams: US main battle tank; one of the most capable and widely used modern tanks.
+what is a bttr vehicle: See what is the humvee.
+what is a tank: Armored fighting vehicle with tracks and a large cannon.
+what is an apc: Armored personnel carrier; vehicle that transports soldiers under armor protection.
+what is an ifv: Infantry fighting vehicle; armored vehicle with weapons that can fight alongside infantry.
+what is the bradley fighting vehicle: US IFV armed with a 25mm cannon and anti-tank missiles.
+what is the t-72: Soviet main battle tank; widely exported and used in many conflicts.
+what is the leopard 2: German main battle tank considered among the best in the world.
+what is the challenger 2: British main battle tank known for its armor protection.
+what is a mrap: Mine-resistant ambush protected vehicle; heavily armored vehicle designed to withstand IEDs.
+what is a brdm vehicle: Soviet amphibious armored reconnaissance vehicle.
+what is a btr vehicle: Soviet and Russian wheeled armored personnel carrier family.
+what is an mbt: Main battle tank; a heavy armored fighting vehicle that forms the core of modern armored forces.
+what is an ied: Improvised explosive device; a homemade bomb used in asymmetric warfare.
+what is an rpg: Rocket-propelled grenade; portable shoulder-fired weapon launcher.
+what is a stinger missile: US shoulder-launched surface-to-air missile.
+what is a javelin missile: US anti-tank guided missile; fire-and-forget system widely used in Ukraine.
+what is a motorcycle: Two-wheeled motor vehicle.
+what is a crotch rocket: Informal term for a sport motorcycle.
+what is a cruiser motorcycle: Style of motorcycle with an upright seating position; Harley-Davidson is the iconic brand.
+what is a touring motorcycle: Motorcycle designed for long-distance travel with luggage and comfort features.
+what is a dual sport motorcycle: Motorcycle designed for both on-road and off-road use.
+what is a motocross bike: Off-road motorcycle designed for racing on dirt tracks.
+what is an enduro motorcycle: Off-road motorcycle designed for endurance trail riding.
+what is an atv: All-terrain vehicle; four-wheeled off-road vehicle.
+what is a utv: Utility task vehicle; side-by-side off-road vehicle with a cargo bed.
+what is a snowmobile: Motorized sled designed for travel on snow.
+what is a personal watercraft: Small jet-propelled watercraft for one or two people; Jet Ski is a brand name.
+what is a hydrofoil: Boat or attachment that lifts the hull out of the water using underwater wings.
+what is a hovercraft: Vehicle that travels on a cushion of air over land or water.
+what is a catamaran: Multi-hulled watercraft with two parallel hulls.
+what is a trimaran: Multi-hulled watercraft with three hulls.
+what is a jet boat: Boat propelled by a jet of water rather than a propeller.
+what is a rigid inflatable boat: RIB; a boat with a rigid hull and inflatable tubes; used by navies and coast guards.
+what is an lcs: Littoral combat ship; small fast US Navy warship for coastal operations.
+what is a destroyer: Fast naval warship used for anti-submarine, anti-aircraft and anti-ship roles.
+what is a frigate: Naval warship smaller than a destroyer; used for escort and patrol duties.
+what is a cruiser warship: Large naval warship with heavy armament for fleet defense and strike missions.
+what is an amphibious assault ship: Naval vessel that carries and deploys Marines using helicopters and landing craft.
+what is a submarine: Underwater naval vessel capable of stealth operations and missile launches.
+what is a ballistic missile submarine: SSBN; nuclear-powered submarine carrying ballistic missiles as a nuclear deterrent.
+what is an attack submarine: SSN; nuclear-powered submarine designed to hunt ships and other submarines.
+
+# Money & Economics (expanded)
+what is inflation: Rate at which the general level of prices rises, reducing purchasing power.
+what is deflation: Decrease in the general price level; can signal economic weakness.
+what is stagflation: Combination of stagnant economic growth, high unemployment and high inflation.
+what is quantitative easing: Central bank policy of buying assets to inject money into the economy.
+what is a recession: Period of negative economic growth lasting at least two consecutive quarters.
+what is a depression in economics: Severe and prolonged recession with high unemployment and sharp decline in economic activity.
+what is gdp: Gross domestic product; total value of goods and services produced in a country in a given period.
+what is gnp: Gross national product; total value of goods and services produced by a country's residents regardless of location.
+what is per capita income: Average income per person in a country.
+what is a trade deficit: When a country imports more than it exports.
+what is a trade surplus: When a country exports more than it imports.
+what is balance of payments: Record of all financial transactions between a country and the rest of the world.
+what is foreign direct investment: Investment by a company or individual in one country into business in another.
+what is a currency exchange rate: Price at which one currency can be exchanged for another.
+what is the gold standard: Monetary system where currency is backed by gold; most countries abandoned it by the 1970s.
+what is bretton woods: 1944 agreement that established the post-WWII monetary order with the USD as the reserve currency.
+what is the imf: International Monetary Fund; international organization that provides financial assistance to countries in crisis.
+what is the world bank: International financial institution providing loans and grants to developing countries.
+what is the wto: World Trade Organization; international body regulating trade between nations.
+what is a free trade agreement: Treaty that reduces or eliminates trade barriers between two or more countries.
+what is nafta: North American Free Trade Agreement between the US, Canada and Mexico; replaced by USMCA in 2020.
+what is the usmca: United States-Mexico-Canada Agreement; replaced NAFTA in 2020.
+what is the european single market: EU arrangement allowing free movement of goods, services, capital and people.
+what is a supply chain: Network of suppliers, manufacturers and distributors involved in producing a product.
+what is just in time manufacturing: Production strategy of receiving goods only as they are needed to reduce inventory.
+what is outsourcing: Contracting work to an outside company, often in another country.
+what is offshoring: Moving business operations or jobs to another country.
+what is globalization: Increasing interconnection of economies, cultures and populations worldwide.
+what is a bull run: Sustained period of rising asset prices.
+what is a market correction: Decline of 10 to 20 percent from a recent market high.
+what is volatility in finance: Measure of how much an asset's price fluctuates.
+what is leverage in finance: Using borrowed capital to increase potential returns; also increases risk.
+what is margin trading: Borrowing funds from a broker to buy securities; losses can exceed the initial investment.
+what is short selling: Borrowing a security and selling it, hoping to buy it back at a lower price.
+what is a derivative: Financial instrument whose value depends on an underlying asset.
+what is a futures contract: Agreement to buy or sell an asset at a predetermined price on a future date.
+what is an option contract: Right but not obligation to buy or sell an asset at a set price before a date.
+what is a call option: Option giving the right to buy an asset at a set price.
+what is a put option: Option giving the right to sell an asset at a set price.
+what is arbitrage: Exploiting price differences of the same asset in different markets.
+what is a ponzi scheme: Fraudulent investment operation paying returns using money from new investors.
+what is a pyramid scheme: Business model that relies on recruiting new members rather than selling products.
+what is insider trading: Buying or selling securities based on material non-public information; illegal.
+what is a hedge: Investment made to offset potential losses in another investment.
+what is a currency hedge: Strategy to reduce the risk of currency exchange rate changes on investments.
+what is a safe haven asset: Asset expected to retain or increase value during market turbulence, such as gold or USD.
+what is a reserve currency: Currency held in large amounts by governments; the USD is the dominant reserve currency.
+what is the petrodollar: Concept of oil being priced in US dollars, sustaining global demand for the currency.
+what is quantitative tightening: Central bank reducing its balance sheet by selling assets or not reinvesting, to tighten monetary conditions.
+what is the yield curve: Graph of interest rates on bonds of different maturities; an inverted curve often precedes recession.
+what is a bond yield: Return on a bond investment; inversely related to the bond price.
+what is a junk bond: High-yield bond with a lower credit rating and higher risk of default.
+what is credit default swap: Financial instrument allowing an investor to swap credit risk with another party.
+what is too big to fail: Concept that some institutions are so large that their failure would be catastrophic to the economy.
+what is the dodd-frank act: 2010 US law reforming financial regulation following the 2008 financial crisis.
+what is basel iii: International banking regulations requiring banks to maintain sufficient capital reserves.
+what is quantitative analysis in finance: Use of mathematical and statistical models to evaluate investments.
+what is technical analysis: Method of evaluating securities by analyzing price and volume charts.
+what is fundamental analysis: Method of evaluating a security by examining underlying economic and financial factors.
+what is a p/e ratio: Price-to-earnings ratio; stock price divided by earnings per share; a measure of valuation.
+what is market capitalization: Total market value of a company's shares outstanding.
+what is revenue vs profit: Revenue is total income; profit is what remains after expenses.
+what is ebitda: Earnings before interest, taxes, depreciation and amortization; a measure of operating performance.
+what is cash flow: Movement of money into and out of a business.
+what is working capital: Current assets minus current liabilities; measures short-term financial health.
+what is accounts receivable: Money owed to a company by its customers for goods or services delivered.
+what is accounts payable: Money a company owes to its suppliers.
+what is depreciation: Reduction in the value of an asset over time due to wear and use.
+what is amortization: Gradual reduction of a debt or the allocation of an intangible asset's cost over time.
+what is a balance sheet: Financial statement listing a company's assets, liabilities and shareholders' equity.
+what is an income statement: Financial statement showing revenue, expenses and profit over a period.
+what is a cash flow statement: Financial statement showing cash inflows and outflows over a period.
+what is an audit: Formal examination and verification of a company's financial records.
+what is a cpa: Certified Public Accountant; licensed accounting professional in the US.
+what is gaap: Generally Accepted Accounting Principles; standard accounting rules used in the US.
+what is ifrs: International Financial Reporting Standards; global accounting standards used in many countries.
+what is an angel investor: Individual who provides capital to startups in exchange for equity.
+what is a term sheet: Non-binding agreement outlining the basic terms of an investment deal.
+what is due diligence: Investigation of a business or investment before completing a transaction.
+what is an exit strategy in business: Plan for an investor or owner to sell or liquidate their position.
+what is an ipo process: Process by which a private company offers shares to the public for the first time.
+what is a spac: Special purpose acquisition company; a shell company that raises money to merge with a private firm.
+what is private equity: Investment in companies not publicly traded on a stock exchange.
+what is a leveraged buyout: Purchase of a company using significant borrowed money.
+what is mergers and acquisitions: Area of corporate finance dealing with the consolidation of companies.
+what is antitrust law: Laws preventing monopolistic practices and promoting market competition.
+what is the sherman antitrust act: 1890 US law prohibiting monopolistic business practices.
+what is the federal trade commission: US agency responsible for consumer protection and preventing anticompetitive business practices.
+what is the securities and exchange commission: SEC; US agency regulating the securities industry and stock markets.
+what is the fdic: Federal Deposit Insurance Corporation; insures deposits up to $250,000 per depositor in US banks.
+what is the cfpb: Consumer Financial Protection Bureau; US agency protecting consumers in the financial marketplace.
+what is a credit union: Member-owned financial cooperative offering banking services, often with better rates than banks.
+what is a payday loan: Short-term high-interest loan typically due on the borrower's next payday.
+what is usury: Lending money at unreasonably high interest rates.
+what is predatory lending: Unfair or abusive loan practices targeting vulnerable borrowers.
+what is microfinance: Providing small loans and financial services to low-income individuals.
+what is remittance: Money sent by workers in one country to their families in another.
+what is hawala: Informal money transfer system based on trust, common in the Middle East and South Asia.
+what is a central bank digital currency: CBDC; digital form of a country's fiat currency issued by its central bank.
+what is the swift system: Society for Worldwide Interbank Financial Telecommunication; network for international bank transfers.
+what is the libor: London Interbank Offered Rate; benchmark interest rate now being phased out.
+what is sofr: Secured Overnight Financing Rate; replacement for LIBOR in US markets.
+what is quantitative easing effect: Lowers interest rates, inflates asset prices and aims to stimulate borrowing and spending.
 
 # Funny
 wtf: Watch your language.
